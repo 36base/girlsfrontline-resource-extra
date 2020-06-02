@@ -1,9 +1,9 @@
 {
-  "name": "girlsfrontline-extra-data",
+  "name": "girlsfrontline-resource-extra",
   "version": "1.3.0",
   "main": "./lib/index.js",
   "repository": "https://github.com/36base/girlsfrontline-extra-data.git",
-  "author": "okms00909 <okms00909@gmail.com>",
+  "author": "MagicWorld <craftedmovie30@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "rimraf lib build && babel src --out-dir lib --ignore **/*.spec.js && node ./scripts/build.js",
