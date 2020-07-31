@@ -1,6 +1,6 @@
 {
   "name": "girlsfrontline-resource-extra",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "main": "./lib/index.js",
   "repository": "https://github.com/36base/girlsfrontline-extra-data.git",
   "author": "MagicWorld <craftedmovie30@gmail.com>",
