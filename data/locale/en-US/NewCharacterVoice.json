@@ -178,7 +178,7 @@
       "Me...? Is this really a good idea, Commander?<>Surely there are better choices... No, I'm happy!<>I'll brew tea for you for the rest of our lives."
     ],
     "introduce": [
-      "Type64 submachine gun, the first generation of suppressed firearms, was developed to meet the needs of recon scouts. nWhile I can provide incredible concealment, I also require careful maintenance. However, I can still put on quite a show even without a suppressor!"
+      "Type64 submachine gun, the first generation of suppressed firearms, was developed to meet the needs of recon scouts. \\nWhile I can provide incredible concealment, I also require careful maintenance. However, I can still put on quite a show even without a suppressor!"
     ],
     "allhallows": [
       "Oh, who's outside the door? It's Halloween...? The candy isn't ready yet... Will green tea ice cream do?"
@@ -493,6 +493,30 @@
     ],
     "gain": [
       "I, Mauser Kar98k, will do my best for your sake. Please allow me to sweep aside the obstacles in your path."
+    ],
+    "loading": [
+      "Just a second, bitte."
+    ],
+    "retreat": [
+      "I'm so sorry, but this is the best I can do."
+    ],
+    "break": [
+      "You really did something unforgivable."
+    ],
+    "skill3": [
+      "Dummkopf... Deutsch technology is the best in the world!"
+    ],
+    "fix": [
+      "Another repair? So who's going to serve me this time?"
+    ],
+    "hello": [
+      "Guten Morgen, Commander~"
+    ],
+    "feed": [
+      "Well, isn't this great!"
+    ],
+    "valentine": [
+      "Commander, please give my chocolate a try."
     ]
   },
   "9A91": {
@@ -724,6 +748,9 @@
     ],
     "gain": [
       "Automatic pistol, Stechkin, present!"
+    ],
+    "valentine": [
+      "Commander, please accept this chocolate as a token of my affection... Heheh♪ Of course, it's not free!"
     ]
   },
   "AR": {
@@ -802,6 +829,9 @@
     ],
     "win": [
       "Commander, does this victory...make me \"outstanding\"?"
+    ],
+    "hello": [
+      "All set for the job today, Commander? I’m ready whenever you are."
     ]
   },
   "AR15Mod_Live2D": {
@@ -2103,6 +2133,9 @@
     ],
     "valentine": [
       "Commander, don't you feel that receiving so many chocolates is a burden?"
+    ],
+    "christmas": [
+      "Santa Claus only works today. I'm jealous..."
     ]
   },
   "GG_elfeldt": {
@@ -2196,6 +2229,9 @@
     ],
     "defense": [
       "Careful!"
+    ],
+    "valentine": [
+      "What kind of clever idea does M1911 have today? ...No, I should come up with something on my own this time!"
     ]
   },
   "Grizzly_0": {
@@ -2288,6 +2324,9 @@
     ],
     "gain": [
       "Phew...big sister, I'm finally here... Commander, although I may be troublesome, please look after me from now on."
+    ],
+    "christmas": [
+      "My sister is setting up the Christmas tree... W-what do I do...? Should I go and help? ...Uh..."
     ]
   },
   "HK23": {
@@ -2784,6 +2823,9 @@
     ],
     "gain": [
       "Pleased to meet you, Commander. There is...no need to introduce me to the others. I'm fine working alone..."
+    ],
+    "christmas": [
+      "Merry Christmas, Commander... Work has been pretty exhausting, but I'll be fine after a short break... Yeah, I won't push myself too hard..."
     ]
   },
   "M1": {
@@ -3725,6 +3767,30 @@
     ],
     "gain": [
       "M950A reporting. I'll be taking your orders from now on, Commander."
+    ],
+    "win": [
+      "You got this result mostly thanks to me. Remember that."
+    ],
+    "fix": [
+      "You're here to visit me? That makes me quite happy."
+    ],
+    "retreat": [
+      "Even I miscalculate things once in a while... But it isn't...actually so bad, is it...?"
+    ],
+    "break": [
+      "Tsk... I wanted to impress you for once... (Mutters)"
+    ],
+    "hello": [
+      "So, have you decided what to do today? ...I'm fine with anything."
+    ],
+    "valentine": [
+      "Here, this year's chocolate... Huh? You thought I'd forgotten? I remember better than you."
+    ],
+    "blackaction": [
+      "Let me help. I don't have much to do anyway."
+    ],
+    "phrase": [
+      "Hurry up."
     ]
   },
   "M99": {
@@ -3884,6 +3950,9 @@
     ],
     "gain": [
       "So you're the Commander, huh? I'm MG42's older sister, MG34! Let's get to know each other!"
+    ],
+    "newyear": [
+      "42, don't forget your manners - you need to do proper New Year greetings! Happy New Year, Commander!"
     ]
   },
   "MG4": {
@@ -4801,6 +4870,9 @@
     ],
     "valentine": [
       "Are you surprised that I made chocolate? You seem to be under the wrong impression... I'm perfect in everything I do."
+    ],
+    "newyear": [
+      "Happy New Year? That's no excuse for slacking off today... Get back to work!"
     ]
   },
   "PM": {
@@ -4827,6 +4899,9 @@
     ],
     "gain": [
       "Rather than the Commander giving orders, working together is the better plan. Under me that is~"
+    ],
+    "valentine": [
+      "I'm teaching everyone how to make chocolate. Commander, could you be our taster?"
     ]
   },
   "PP19": {
@@ -5223,6 +5298,9 @@
     ],
     "gain": [
       "RMB-93, happy to serve. Oh! Before that, we'll have to discuss some conditions in the contract for my service before I start."
+    ],
+    "valentine": [
+      "I've booked a hotel and ordered flowers and food tonight... And this chocolate is also for you."
     ]
   },
   "RO635": {
@@ -5295,6 +5373,27 @@
     ],
     "gain": [
       "I'm Saiga-12! Commander, leave the trash in your way for me. I will clean them up!"
+    ],
+    "hello": [
+      "Welcome back, Commander. How about a shower before the operation?"
+    ],
+    "skill2": [
+      "Don't make my clothes dirty..."
+    ],
+    "fix": [
+      "This is gonna take a thorough wash..."
+    ],
+    "retreat": [
+      "Dammit...I'll come again after a change of clothes..."
+    ],
+    "break": [
+      "How dare you humiliate me like this... Unforgivable!"
+    ],
+    "operationover": [
+      "I'm back. Gonna shower first."
+    ],
+    "operationbegin": [
+      "I'm setting off. Prepare a change of clothes for me."
     ]
   },
   "SAT8": {
@@ -5541,6 +5640,9 @@
     ],
     "gain": [
       "SPP-1 Underwater Pistol, reporting! Although I can operate on land, I'll show you what I can really do when we're underwater!"
+    ],
+    "newyear": [
+      "Happy New Year, Commander. I've improved a lot last year, haven't I? At least praise me a little, don't be so stingy."
     ]
   },
   "SPS": {
@@ -5911,6 +6013,9 @@
     ],
     "gain": [
       "Pleasure to meet you Commander! My name's T91, and I will give everything I've got to accomplish your orders!"
+    ],
+    "newyear": [
+      "Happy New Year, Commander. Even I look forward to my red packet this year, okay? Hehe~"
     ]
   },
   "TAR21": {
@@ -6320,6 +6425,9 @@
     ],
     "retreat": [
       "Um...Sorry..."
+    ],
+    "valentine": [
+      "I just happen to have some extra chocolate! I won't forgive you if you turn it down!"
     ]
   },
   "Welrod": {
@@ -6491,6 +6599,12 @@
     ],
     "gain": [
       "Commander... Yes, just as it says on the file, I am Zas M21. I hope you won't mind my performance."
+    ],
+    "valentine": [
+      "Valentine's Day is just a random festival hyped up by businesses. It's clearly a commercial trap, so why is everyone still so happy about it?"
+    ],
+    "combine": [
+      "If you look closely...I'm actually...quite cute."
     ]
   },
   "CLEAR": {
@@ -6840,6 +6954,9 @@
     ],
     "newyear": [
       "I have investigated various New Year's customs, and I didn't realize there are so many of them. Why don't we give them all a try?"
+    ],
+    "valentine": [
+      "Be careful, Commander. This chocolate will go bad if it isn't stored at this specific temperature, so make sure you follow the instructions."
     ]
   },
   "FP6": {
@@ -7221,6 +7338,9 @@
     ],
     "gain": [
       "Commander, this is my first suggestion to you - please make sure the work you give me is within my abilities to accomplish. Thank you."
+    ],
+    "newyear": [
+      "It's been a whole year, Commander. It's really time you fixed this nasty habit of yours. Don't burn the midnight oil today."
     ]
   },
   "K11": {
@@ -7460,6 +7580,9 @@
     ],
     "newyear": [
       "Happy New Year, Commander. I hope we will have a successful year. Let's work hard together."
+    ],
+    "christmas": [
+      "Merry Christmas, Commander. Huh? I should dress up too...? Will that really...make me look prettier...?"
     ]
   },
   "Type64-AR": {
@@ -7585,6 +7708,9 @@
     ],
     "newyear": [
       "Happy New Year, Commander. The finance report for the previous year is out. There wasn't too much wastage, so please keep up the good work for this year."
+    ],
+    "christmas": [
+      "Merry Christmas, Commander... Work has been pretty exhausting, but I'll be fine after a short break... Yeah, I won't push myself too hard..."
     ]
   },
   "M14Mod": {
@@ -7833,6 +7959,30 @@
     ],
     "gain": [
       "Thank goodness~ The Commander here looks like a nice person! I'm Lewis, pleased to meet you!"
+    ],
+    "fix": [
+      "I-I won't need an injection, right...?"
+    ],
+    "defense": [
+      "Now's the time to check our gear."
+    ],
+    "retreat": [
+      "Something...doesn't feel right..."
+    ],
+    "break": [
+      "Ugh...these guys are much nastier than they look..."
+    ],
+    "hello": [
+      "Huh? Commander? ...Crap, almost forgot I've still got stuff to do!"
+    ],
+    "win": [
+      "Let history remember us as victors!"
+    ],
+    "operationover": [
+      "I've brought back everything that looks awesome."
+    ],
+    "christmas": [
+      "It's just a regular tree, but a little decoration really does make it Christmassy. Merry Christmas~"
     ]
   },
   "UKM2000": {
@@ -8355,6 +8505,9 @@
     ],
     "gain": [
       "Gr MG36, reporting for duty. A new base, huh... I hope you're not the type to pry into their subordinate's past, Commander."
+    ],
+    "newyear": [
+      "We made it through another year, Commander. I need to say something auspicious to get the red packet? Then...live long and prosper."
     ]
   },
   "ChauchatM1915": {
@@ -8401,6 +8554,9 @@
     ],
     "gain": [
       "Hello, Commander. EM-2 assault rifle is joining your ranks today. Mhm...judging by your reaction, my self-introduction has left you with a good impression."
+    ],
+    "newyear": [
+      "Happy New Year, Commander! I hope we'll have a safe and peaceful holiday this year so that I'll have time to try the latest kind of cookies."
     ]
   },
   "PA15": {
@@ -8448,6 +8604,24 @@
     ],
     "operationover": [
       "I'm back with some cool souvenirs."
+    ],
+    "newyear": [
+      "The first day of each year is a brand new beginning, so let's start it with trying out some new tactics?"
+    ],
+    "buildover": [
+      "Oooh, a cutie I can play with?"
+    ],
+    "blackaction": [
+      "Kitty scurrying into the dark after a ball of yarn...here I come."
+    ],
+    "combine": [
+      "Oooh, now I can have some fun!"
+    ],
+    "agree": [
+      "Uh-huh~"
+    ],
+    "feed": [
+      "This feels so good...which means I can take on stronger and more interesting things!"
     ]
   },
   "QBU88": {
@@ -8495,6 +8669,9 @@
     ],
     "hello": [
       "Hello, Commander! I've tidied up your office."
+    ],
+    "skill2": [
+      "Gotcha!"
     ]
   },
   "R93": {
@@ -8539,6 +8716,9 @@
     ],
     "gain": [
       "Hello, Commander. R93 reporting for duty! Hehe, complete victory is guaranteed when I'm involved! Wanna bet...if you don't believe me?"
+    ],
+    "combine": [
+      "Thank you, Commander. I can feel the good vibes coming!"
     ]
   },
   "HK33": {
@@ -8887,6 +9067,9 @@
     ],
     "gain": [
       "Greetings, this is M1895 Colt-Browning Machine Gun, here to report for duty... This IS Griffin HQ, right? ...Great, I'm in the right place."
+    ],
+    "newyear": [
+      "Happy New Year, Commander. Here's a New Year gift for you... A folder would be pretty useful, right?"
     ]
   },
   "Kord": {
@@ -9002,6 +9185,9 @@
     ],
     "gain": [
       "HK CAWS, at your service. There's no need to welcome me too warmly... Pay up and I'll get the job done."
+    ],
+    "christmas": [
+      "This year, my Christmas wish is to jump ship and go work for a company that's less crazy. But before that, I don't mind playing with you for a bit. Oh, relax. I won't charge you this time."
     ]
   },
   "DP12": {
@@ -9025,6 +9211,33 @@
     ],
     "gain": [
       "DP-12, here to provide physical and mental protection. Hmm...want to hear the story behind my name, Commander?"
+    ],
+    "tip": [
+      "These little things can make your job go much more smoothly."
+    ],
+    "skill2": [
+      "You're not getting past me."
+    ],
+    "fix": [
+      "The way I look now, I'll probably scare the next person who comes in."
+    ],
+    "break": [
+      "Holy... They really do pack a punch."
+    ],
+    "retreat": [
+      "Sorry, this is the best I can do... Will you forgive me?"
+    ],
+    "hello": [
+      "As always, you showed up at work on time."
+    ],
+    "newyear": [
+      "New Year is always stimulating no matter where you go. Then instead of ghost stories, let's tell each other myths and legends about hope today."
+    ],
+    "meet": [
+      "Here, surprise."
+    ],
+    "operationbegin": [
+      "Will we be operating at night? I want to show off what I can do."
     ]
   },
   "Liberator": {
@@ -9053,16 +9266,640 @@
   "APSMod": {
     "soulcontract": [
       "You're sure about choosing me?<>Then from now on, what's yours is mine, and what's mine is still mine!"
+    ],
+    "dialoguewedding": [
+      "We're family; surely you should've got used to me by now... Otherwise, you might want to reset my personality? Oh dear, what's with that face? Getting angry? I was just joking... Don't worry, I will never change, and neither will my feelings for you."
+    ],
+    "introduce": [
+      "Brand new military machine pistol Stechkin, or APS, at your service. Dear Commander, have you missed me?"
+    ],
+    "dialogue3": [
+      "Commander, I've been wondering... Do you think the world only seems peaceful because we're here...? Haha, you're right. Such nonsense."
+    ],
+    "dialogue2": [
+      "Why did you carry the pile of documents yourself? Gee, just leave that to me next time. I'm on your payroll, after all. I don't want to owe you any more favors."
+    ],
+    "dialogue1": [
+      "One pile, two piles, three piles... What? Wanna help me count the money?"
+    ],
+    "valentine": [
+      "Commander, please accept this chocolate as a token of my affection... Heheh♪ Of course, it's not free!"
     ]
   },
   "C96Mod": {
     "soulcontract": [
       "Huhhhh? Whyyyyyy?<>Is it 'cause I'm smart? Cute? Unusual? Or is it because I have a long history? Or...or... Fine...<>I'll just keep guessing right here by your side."
+    ],
+    "dialoguewedding": [
+      "Commander, it's a lot less grating on your ear when I say it slowly, like Com~mand~der, right? I've gotten smarter, haven't I?"
+    ],
+    "introduce": [
+      "See, Commander, don't I look a lot more refreshing now?"
+    ],
+    "dialogue3": [
+      "Gr HK45 has been asking me to rehearse a new dance number with her lately, but they're clearly battle drills."
+    ],
+    "dialogue2": [
+      "It feels nice to loosen up every now and then. It doesn't get too warm when huddling with the Commander even in this big coat."
+    ],
+    "dialogue1": [
+      "This new uniform is much more convenient than the old one. When it gets too hot, I can just whoosh—and take it off!"
     ]
   },
   "MAB38Mod": {
     "soulcontract": [
       "Calling me all the way out here... You're not trying to pawn me off, are you, Commander?<>Eh?! ...My efforts...clearly don't meet your expectations...<>But...I understand now. I'll stay by your side and work hard to improve myself!"
+    ],
+    "dialoguewedding": [
+      "Commander, I've learned all the tactics you taught me last time! Please teach me more... This time, I don't just want to stay by your side. I want to charge forward with you. Please take care of me as always!"
+    ],
+    "introduce": [
+      "M38, back on duty! Commander, I'll give you everything I've got."
+    ],
+    "dialogue3": [
+      "Commander, you need to take care of your health. Here, a mint to boost your blood sugar. Take a short break."
+    ],
+    "dialogue2": [
+      "How I've been doing? I'm in a lousy mood... Just pulling your leg. I won't be so frowny all the time anymore. Go ahead and guess how I'm feeling right now, heh."
+    ],
+    "dialogue1": [
+      "I never realized...what matters most is already right by my side. From now on, I won't feel lost anymore."
+    ]
+  },
+  "KSVKMod": {
+    "soulcontract": [
+      "Commander, I no longer see any confusion in your eyes. <>The time is ripe, and you are the sole truth within my heart… <>Oh oathsworn one, let us carve an eternal existence into each others' fates..."
+    ],
+    "gain": [
+      "It's been a while, destined Commander. As always, I shall bear witness to your journey with these new eyes!"
+    ],
+    "dialoguewedding": [
+      "Oathmaker, I receive thy wish. I shall give it my all to attain what you've been working for."
+    ],
+    "introduce": [
+      "It's been a while, destined Commander. As always, I shall bear witness to your journey with these new eyes!"
+    ],
+    "dialogue3": [
+      "Weakness is no reason for hesitation; similarly, strength is no excuse for cruelty."
+    ],
+    "dialogue2": [
+      "Love and the desire to protect are the tenderest and most resilient of all feelings. They have nothing to do with how strong a body is."
+    ],
+    "dialogue1": [
+      "What is it? You keep staring at me. Just because I've shrunk doesn't change anything - except our feelings."
+    ]
+  },
+  "GSH18Mod": {
+    "soulcontract": [
+      "Commander, if it wasn't for you standing by my side, I would never have been able to persevere until now... <>I'll always look forward to every order you give, every time you praise me, every time you trust me... <>And now...every reassuring smile of yours, Commander."
+    ],
+    "gain": [
+      "Gsh-18, in position! No matter how difficult a problem, I'll solve it with perfection!"
+    ],
+    "dialoguewedding": [
+      "Huh, Commander? I'm drawing the newest chapter of my manga serialization. Judging by my current progress, it won't be done till tomorrow... But if you stay with me, I'll have it done in three hours..."
+    ],
+    "introduce": [
+      "Gsh-18, in position! No matter how difficult a problem, I'll solve it with perfection!"
+    ],
+    "dialogue3": [
+      "If there's anything you'd like to tell me, I'll be right here. I'll listen to whatever you have to say, both happy and unhappy things."
+    ],
+    "dialogue2": [
+      "Commander, you've been working at your desk since I went out and you haven't budged at all till I came back... Come and do some push-ups with me to get your body moving!"
+    ],
+    "dialogue1": [
+      "My manga's slipped to second place on the popularity poll again?! Dammit, time to gather some new materials..."
+    ]
+  },
+  "M500Mod": {
+    "soulcontract": [
+      "Wah! Commander, are you really serious?! This isn't some kind of punishment game, right?<>Hey! I'm asking a serious question! Since you've always teased me...<>T-Then let me take it seriously. Commander, from this day on, please take good care of me."
+    ],
+    "gain": [
+      "Here we go, Dowel. Shout with me, ready... HELLO, COMMANDER!"
+    ],
+    "dialoguewedding": [
+      "590, Dowel, the Commander - I have three partners?! Now isn't that amazing, Commander?!"
+    ],
+    "introduce": [
+      "Here we go, Dowel. Shout with me, ready... HELLO, COMMANDER!"
+    ],
+    "dialogue3": [
+      "Commander, should we have a party?! Or should we go hunting together? Let's do both! A picnic! How about a picnic?!"
+    ],
+    "dialogue2": [
+      "Grrr...ruff! I'm Dowel! Ruff-ruff! That was a good impression, wasn't it, Commander? Heheh, then pat me!"
+    ],
+    "dialogue1": [
+      "Dowel or me, you can only give either one of us head pats! So which one will you choose? Me, of course! Dowel only needs pats from me!"
+    ]
+  },
+  "M950AMod": {
+    "soulcontract": [
+      "Hmph, so it's me in the end, huh?<>Ever since when? ...But I guess it doesn't matter now...<>Very well, let's become closer...and be mine..."
+    ],
+    "gain": [
+      "M950 returning to Griffin in a brand-new form! Commander, allow me to protect you from now on."
+    ],
+    "dialoguewedding": [
+      "What's the plan now, Commander...? If possible, I'd like to in-invite you to take a stroll with me outside... Phew, I finally got that out."
+    ],
+    "introduce": [
+      "M950 returning to Griffin in a brand-new form! Commander, allow me to protect you from now on."
+    ],
+    "dialogue3": [
+      "I used to hate myself for being so by-the-book and locking myself in a cage of loneliness... But you still accepted me and never deserted me... So now, I've come to like myself. Please let me watch over you."
+    ],
+    "dialogue2": [
+      "Commander, have you noticed anything weird about Thunder lately...? She's always...staring at me when she thinks I'm not looking..."
+    ],
+    "dialogue1": [
+      "You asked to see me just to have a chat? Sure, I've got lots of things I want to say to you."
+    ]
+  },
+  "Excutioner": {
+    "titlecall": [
+      "Girls' Frontline"
+    ]
+  },
+  "Scarecrow": {
+    "titlecall": [
+      "Girls' Frontline"
+    ]
+  },
+  "HowaType89": {
+    "dialoguewedding": [
+      "Is-is this...rice?! G-gosh, it isn't even an anniversary or anything, so why are you giving me something so valuable...? I-I'm gonna enshrine it! Huh? I'm not crying just because I see rice! These days when I can share my meals with you are much more precious than rice itself..."
+    ],
+    "introduce": [
+      "Ta-daa! 89 Shiki Assault Rifle, reporting for duty! Oh my, Commander, I didn't know 64 Shiki was here as well."
+    ],
+    "soulcontract": [
+      "Look, Commander! This is my new... Whoa! <>Don't think you can beat me with this thing! I-I'll make even more novel trinkets... <>Gosh, what am I talking about...? Commander, please put it on for me! Right now, I've got nothing to say other than \"I do\"..."
+    ],
+    "dialogue3": [
+      "Hehe, what do you think about my new invention? It's a roomba that can do the laundry and cook porridge at the same time! Uh, I'll just leave it here with you for now. Don't let 64 Shiki see it or she's gonna faint again."
+    ],
+    "dialogue2": [
+      "My, what are you looking at? Look up - up! Hehe, twintails really are the best, don't you think?"
+    ],
+    "dialogue1": [
+      "Huh? We have to queue for an hour if we can't go through the VIP entrance? Fine. Give me your ID number, Commander. I think we'd better get VIP tickets for the theme park."
+    ],
+    "gain": [
+      "Ta-daa! 89 Shiki Assault Rifle, reporting for duty! Oh my, Commander, I didn't know 64 Shiki was here as well."
+    ]
+  },
+  "VEPR": {
+    "dialoguewedding": [
+      "Commander, the weather is sunny and visibility is good - an ideal day to observe wildlife on the savannah. If you have time, would you like to..."
+    ],
+    "introduce": [
+      "Zdrastuyte, Commander. I'm Vepr. It's an honor to serve you— Wait, please don't scan that barcode!"
+    ],
+    "soulcontract": [
+      "Can I really have this? They say it can't come off once it goes on... <>I understand, thank you for your trust and support. <>I now declare you to be a permanent member of the Wild Boar Protection Association."
+    ],
+    "dialogue3": [
+      "Are you worried I'd be bored on my own, Commander? You don't have to. Instead of forcing a conversation with someone, I'd much rather be left alone."
+    ],
+    "dialogue2": [
+      "Are you free, Commander? May I take two minutes of your time to do a little survey? It's about your favorite animals. I'm trying to find potential members for the association."
+    ],
+    "dialogue1": [
+      "Sorry, Commander, I'm on a mission right now and can't really talk... Of course, if you want to learn more about wild boars, I'd be very happy to have a conversation."
+    ],
+    "gain": [
+      "Zdrastuyte, Commander. I'm Vepr. It's an honor to serve you— Wait, please don't scan that barcode!"
+    ]
+  },
+  "SL8": {
+    "dialoguewedding": [
+      "Commander, I've been very interested in swimming lately... Wanna go together? What, my body isn't very waterproof? Then I'll just play outside the water!"
+    ],
+    "introduce": [
+      "Wow! Nice to meet you, Commander. You seem fun."
+    ],
+    "soulcontract": [
+      "Got something cool to show me, Commander? <>An oath? Oh, sure! In return, please keep this certificate I ordered. <>An oath is meant to be exchanged, right?"
+    ],
+    "dialogue3": [
+      "Need my help with that? Don't worry, what happened at the café was an accident! I didn't know Gr G36's headband would break so easily."
+    ],
+    "dialogue2": [
+      "It's okay to be nostalgic, but not everyone has to feel that way, right? Some people look into the past, then someone must look into the future. Which are you, Commander?"
+    ],
+    "dialogue1": [
+      "The old toy? I got bored with it and chucked it. More importantly, Commander, what new stuff have you got? Show me and let's study it together?"
+    ],
+    "gain": [
+      "Wow! Nice to meet you, Commander. You seem fun."
+    ]
+  },
+  "RPK16": {
+    "dialoguewedding": [
+      "You and I are like a moth dancing in the candle light, entangled by the flames. It's tragically beautiful how the moth will ultimately be reduced to ashes as the candle goes out in billowing smoke. But who's the moth and who's the fire? ...C'mon, you've got to make yourself special, Commander."
+    ],
+    "introduce": [
+      "We meet again, Commander. I told you we'd run into each other again soon enough. Just as a moth is destined to chase after the light... That's an odd metaphor? You think so?"
+    ],
+    "soulcontract": [
+      "What intrigues me the most about interpersonal relationships is this kind of fragile vows. <>Real trust doesn't need to be bound by names and titles, while a broken relationship can't be maintained with just a ring... <>So which one is it going to be for us, Commander?"
+    ],
+    "dialogue3": [
+      "Humans are like fluffy bunnies in the scorching sun. If they stray too far from each other, they die of loneliness; if they huddle too close together, they feel uncomfortably hot. Fascinating, don't you think?"
+    ],
+    "dialogue2": [
+      "Why do I keep staring at you? What, am I making you embarrassed~? Pfft, relax. Unlike 12 or 15, I'm not equipped with an advanced optic system. I'm just observing you with these plain and simple eyes... That's what makes you feel bashful? Really?"
+    ],
+    "dialogue1": [
+      "Only when humans started questioning God did they develop an independent sense of self... Now if Dolls started questioning our own creators, what would happen? Haha, just kidding. Did I scare you?"
+    ],
+    "gain": [
+      "We meet again, Commander. I told you we'd run into each other again soon enough. Just as a moth is destined to chase after the light... That's an odd metaphor? You think so?"
+    ]
+  },
+  "M82": {
+    "dialoguewedding": [
+      "Salute! Good morning, Commander. It's another busy day...but that's okay. Just trust me as always and give me your orders. I will solve all your problems spectacularly."
+    ],
+    "introduce": [
+      "Valmet M82, reporting for duty. I hope I can stay by your side...as long as you deem me useful."
+    ],
+    "soulcontract": [
+      "...I can't believe you're actually saying this to me. <>All this time, I've been worried that I'd be abandoned and forgotten. <>But now, there's someone who'll always need me? <>...Kiitos."
+    ],
+    "dialogue3": [
+      "Miss MG36 seems to like sci-fi a lot. She's so passionate when talking about the subject, it's actually a little scary. Still...I'm glad I found someone whom I can share my hobby with."
+    ],
+    "dialogue2": [
+      "I'm not worried what kind of difficult situations I'll run into. Since I chose to pick up a weapon, I have prepared for the worst... What worries me is something else - something even more frightening than death."
+    ],
+    "dialogue1": [
+      "I just saw a really dashing lady in the corridor. I was going to chat her up, but she seemed so strict and severe... I hope I'll run into her again."
+    ],
+    "gain": [
+      "Valmet M82, reporting for duty. I hope I can stay by your side...as long as you deem me useful."
+    ]
+  },
+  "AK15": {
+    "dialoguewedding": [
+      "It bothers me so much. Why does 12 like wasting resources on doing meaningless things? I simply can't get along with her... Nyet, sorry, I shouldn't be complaining to you about such trivial matters. Please forget it."
+    ],
+    "introduce": [
+      "Nice to meet you, Commander. I am AK-15, Tactical Doll on active duty. Please issue commands efficiently."
+    ],
+    "soulcontract": [
+      "...I don't understand. This order serves no purpose. <>I'll obey your command even without this unnecessary bond. <>Still, have it your way... If this is what you want, I'll comply unconditionally. <>You have proved to be a trustworthy Commander."
+    ],
+    "dialogue3": [
+      "12? ...Sorry, but we share nothing in common other than our manufacturer. I don't quite understand the way she works either... For the sake of efficiency, I advise against making us work together."
+    ],
+    "dialogue2": [
+      "When I close my eyes, all I see is your typical darkness. I neither like nor dislike it... I simply enjoy the peace and quiet."
+    ],
+    "dialogue1": [
+      "...Were you talking to me? Sorry, I was in sleep mode and didn't catch that. Could you repeat that? It wasn't important? Please, I insist."
+    ],
+    "gain": [
+      "Nice to meet you, Commander. I am AK-15, Tactical Doll on active duty. Please issue commands efficiently."
+    ]
+  },
+  "06TypeSMG": {
+    "dialoguewedding": [
+      "Working so late again, Commander? I've prepared a little hotpot for you as a midnight snack! Relax, it's only miiiiiiildly spicy! Your face is so red you look as if you're gonna start belching fire... Fine, I'll get a double-sided pot and make two soup bases."
+    ],
+    "introduce": [
+      "Wow! I've finally found a place where I can have hotpot, how cool is that?! Ahem, I mean, hello, Commander..."
+    ],
+    "soulcontract": [
+      "(Sobs) I'm finally getting acknowledgment from you, Commander... <>In return, I'll have double-sided hotpots with you... <>I'll give you the last slice of beef and even the last mouthful of grass jelly..."
+    ],
+    "dialogue3": [
+      "Heading out for a mission, Commander? Then I'll prepare some sunscreen, snacks, beer... What? You're not taking me?!"
+    ],
+    "dialogue2": [
+      "Commander, are you done with your work today? Then let's go for a late-night supper! What about the spicy hotpot we had last—why are you suddenly running so fast?!"
+    ],
+    "dialogue1": [
+      "I don't know who told me this, but the \"V\" sign means happiness. I hope I can spread this happiness to the people around me, so I do it a lot. Huh? That's not what it means?"
+    ],
+    "gain": [
+      "Wow! I've finally found a place where I can have hotpot, how cool is that?! Ahem, I mean, hello, Commander..."
+    ]
+  },
+  "Webley": {
+    "dialoguewedding": [
+      "I've ordered a new set of clothes tailored for you. Yes...a suit that matches mine. Come to my room tonight for a fitting."
+    ],
+    "introduce": [
+      "I am Webley. I've been waiting to make your acquaintance. Please show me to my dormitory. I have a lot of belongings to set down."
+    ],
+    "soulcontract": [
+      "You loosened your tie... Humph, even I can tell why you're here. <>Then...do you even have to ask...? I'll let you get away without a kiss since there's so many people around. <>...From now on, I'm going to have to devote all my time to you."
+    ],
+    "dialogue3": [
+      "I hope a larger wardrobe can be arranged for my quarters. My current wardrobe is too full to hang my new suit."
+    ],
+    "dialogue2": [
+      "You want to take me to the seaside? You want to see how I'd dress for the occasion? ...N-no! No chance at all! I don't mind showing you my outfit, but if I go to the seaside...you'll definitely lose me! You absolutely mustn't let me anywhere near the ocean!"
+    ],
+    "dialogue1": [
+      "Don't worry. I will exhaust all possibilities to bring you victory... Why? That's because I know I shoulder the hopes and dreams of many. It is my duty as a Tactical Doll to bring glory to your name."
+    ],
+    "gain": [
+      "I am Webley. I've been waiting to make your acquaintance. Please show me to my dormitory. I have a lot of belongings to set down."
+    ]
+  },
+  "Danuvia43M": {
+    "dialoguewedding": [
+      "Commander, I've always wanted to ask you a really presumptuous question... May I call you...ugh! Never mind!"
+    ],
+    "introduce": [
+      "Jó napot, Commander! Nice day, isn't it?"
+    ],
+    "soulcontract": [
+      "Commander, this component is meant to be mounted on...? <>Huh? It fits my ring finger perfectly! I'm so happy... <>You really are a perfect match for me, Commander!"
+    ],
+    "dialogue3": [
+      "Huh, Commander? It's very late already, aren't you going to sleep? I'm looking for a lost hairpin. It isn't particularly important, but it's hard to find hairpins of that exact size..."
+    ],
+    "dialogue2": [
+      "You cut your hand? Don't move. There is antiseptic and...the candy that you like in my bag."
+    ],
+    "dialogue1": [
+      "You don't seem very happy, Commander? How about I tell you something interesting?"
+    ],
+    "gain": [
+      "Jó napot, Commander! Nice day, isn't it?"
+    ]
+  },
+  "R5RGP": {
+    "dialoguewedding": [
+      "Want to hear my new song? ...Yeah, I wrote it just for you. This was the first time I felt so nervous about creating music. I just hope you'll like it."
+    ],
+    "introduce": [
+      "Remington R5... I was created with high expectations. As for whether I deserve them, you'll have to see what I'm worth with your own eyes."
+    ],
+    "soulcontract": [
+      "You want to shackle my finger, which I play music with? <>Surely you understand what that entails, right, Commander...? <>Right, of course, I know that perfectly well... Then finally, have I lived up to your expectations?"
+    ],
+    "dialogue3": [
+      "While I was still in the factory, my creator believed that I could surpass all my predecessors of the same model and had high hopes for me. If I couldn't live up to these expectations, I'd despise myself."
+    ],
+    "dialogue2": [
+      "The pearl can only see the whole world when it's taken out from its shell. Can you hear the sound of rock from the shell casings?"
+    ],
+    "dialogue1": [
+      "I heard some really obscure heavy metal music when I was on my way to the café, but there was nothing but a mess by the time I got there. I wonder who was listening to it..."
+    ],
+    "gain": [
+      "Remington R5... I was created with high expectations. As for whether I deserve them, you'll have to see what I'm worth with your own eyes."
+    ]
+  },
+  "CR21": {
+    "dialoguewedding": [
+      "Didn't I tell you not to eat junk food, Commander? Fine...just this once. You'll have to exercise more after work."
+    ],
+    "introduce": [
+      "CR-21 joining the roster! Leave everything to me, be it security or your daily fitness training!"
+    ],
+    "soulcontract": [
+      "Commander? Why have you gone out of your way to talk to me...? <>Huh?! Are you for real? So...you won't run away even if you have to train with me every day? <>Since you're so determined, I'll also do my best and not let you down!"
+    ],
+    "dialogue3": [
+      "Fitness exercises have no effect on Dolls, but humans tend to be influenced by their peers, right? So if I keep this up, you'll join in, won't you?"
+    ],
+    "dialogue2": [
+      "No junk food! If you must eat it...then burn the extra calories with me first. No problem with that, right?"
+    ],
+    "dialogue1": [
+      "You're in pretty good shape, Commander, but there's still some excess fat here... Want me to set you a training plan?"
+    ],
+    "gain": [
+      "CR-21 joining the roster! Leave everything to me, be it security or your daily fitness training!"
+    ]
+  },
+  "KAC": {
+    "dialoguewedding": [
+      "The letter Gr Mk23 put on your desk? I didn't see it... Maybe she was trying to trick you! C'mon, Honey, don't think too much of it. Just get back to work. I'm gonna clear the trash for you..."
+    ],
+    "introduce": [
+      "KAC, salute! You smell of grapes... You really are the Honey that I've been waiting for! Don't be a stranger - just call me \"Honey\" as well~ ❤"
+    ],
+    "soulcontract": [
+      "Why are you suddenly giving me such an important gift? Even if you don't, I totally understand your feelings, Honey... <>Yeah! From now on, I'll keep staying by your side, Honey. ❤ <>That'll show the stupid Dolls who it is that Honey cherishes the most, heh..."
+    ],
+    "dialogue3": [
+      "Honey, you seem to be quite curious about my hair buns? Then I'll tell you a little secret. Actually, my buns are fresh food storage containers. I can hide a bunch of grapes in there. ♪"
+    ],
+    "dialogue2": [
+      "If I see you stupid Dolls stealing my grapes, I'll... Oh, Honey? What do you mean howling? As if I'd do something like that..."
+    ],
+    "dialogue1": [
+      "Honey, open wide. Say \"ahh\" - I picked these fresh grapes myself. Do they taste good?"
+    ],
+    "gain": [
+      "KAC, salute! You smell of grapes... You really are the Honey that I've been waiting for! Don't be a stranger - just call me \"Honey\" as well~ ❤"
+    ]
+  },
+  "SIG556": {
+    "dialoguewedding": [
+      "All it takes to remember a person is a hashtag. To me, your hashtag is... Oh, I'm still on duty! Back to work, I'll tell you afterwards!"
+    ],
+    "introduce": [
+      "Trendsetter SIG-556, heyo! Surprised by my outfit? The latest hashtag trend is \"controlled frenzy\", after all!"
+    ],
+    "soulcontract": [
+      "I'm here, Commander! Got any new ideas that you wanna discuss with me? <>An oath? With me? Is this a new hashtag for me? <>Very well then, we'll make it a permanent one!"
+    ],
+    "dialogue3": [
+      "The patterns on my gun and trousers? Oh, they're stickers that I modified myself. I bet they're gonna become my trademarks by the time I leave Griffin!"
+    ],
+    "dialogue2": [
+      "To me, fighting is all about a lot of courage and a little bit of technique. It's up to you to put my strength to use."
+    ],
+    "dialogue1": [
+      "Hey, Commander? What do you think of my outfit? Fits my latest hashtags pretty well, huh? I made it using scrap materials around the base."
+    ],
+    "gain": [
+      "Trendsetter SIG-556, heyo! Surprised by my outfit? The latest hashtag trend is \"controlled frenzy\", after all!"
+    ]
+  },
+  "C93": {
+    "dialoguewedding": [
+      "I've always wanted to be famous...but to tell the truth, I'm simply afraid of being in the shadow of so many Dolls. Maybe I'm just trying to make someone notice me... I'm the best, you say?! Danke, my love."
+    ],
+    "introduce": [
+      "Ta-daa! Borchardt C-93, reporting for duty! Oooh, I know you. You're a celebrity. Heh, there must be plenty of opportunities for me to be in the limelight here."
+    ],
+    "soulcontract": [
+      "It's really pretty here, Commander. What can I do for you? <>...! Is-is this really for me? I'm not even that famous yet. <>I can see that your eyes are serious... Hmm, I do. I also want get to know you better... Let's take care of each other from now on."
+    ],
+    "dialogue3": [
+      "All these butterflies are fluttering around me because I smeared pollen onto myself. Why? Because I love them. I also like caterpillars, spiders, etc. Uh, Commander? Why are you making such an odd face?"
+    ],
+    "dialogue2": [
+      "Commander, the press is here! ...You don't want to show everyone your charismatic self? ...Are you worried about something? Then I won't go either. After all, I'm only a famous Doll when I'm with you."
+    ],
+    "dialogue1": [
+      "Hehe~♪ Why am I so happy? Heh, I've finally figured out what I'm gonna say to the press. Wanna know? Then I'll tell you, just because it's you! \"First I would like to thank my country, my Commander, and...\" Hey, Commander! Where are you going?"
+    ],
+    "gain": [
+      "Ta-daa! Borchardt C-93, reporting for duty! Oooh, I know you. You're a celebrity. Heh, there must be plenty of opportunities for me to be in the limelight here."
+    ]
+  },
+  "MAT49": {
+    "dialoguewedding": [
+      "You wish to know what I have been doing for the past few days? Well, while doing my research, I found out that knights in the past rode horses, so I spent the last few days trying to capture a horse..."
+    ],
+    "introduce": [
+      "Lord Commander, are you the charge that I am destined to protect?"
+    ],
+    "soulcontract": [
+      "Are you really giving this solemn duty to me? <>I know I'm not good enough to deserve this as it takes everything I've got just to ensure your personal safety. <>But don't worry, I shall keep your heart safe even if it costs me my life."
+    ],
+    "dialogue3": [
+      "The reason why I want to be a knight? It's nothing special, really... I simply want to protect the person that matters to me without being a nuisance..."
+    ],
+    "dialogue2": [
+      "Lord Commander, as always, allow me to escort you to your quarters. I know the base is relatively safe, but I can only rest easy after affirming that you've reached your room safe and sound with my own eyes."
+    ],
+    "dialogue1": [
+      "Do you like my hair, Lord Commander? When playing with it, please be careful not to knock out my bad luck inhibitor..."
+    ],
+    "gain": [
+      "Lord Commander, are you the charge that I am destined to protect?"
+    ]
+  },
+  "ZasM76": {
+    "dialoguewedding": [
+      "Come here, Commander. What? Ne, it has nothing to do with SVD! I just want to talk to you alone... Can you spare some time and listen?"
+    ],
+    "introduce": [
+      "Zdravo, Commander. I am Zas M76. Please look forward to my performance. I will prove myself better than SVD in every aspect."
+    ],
+    "soulcontract": [
+      "You've chosen me...you say...? <>I knew it. It's because I'm better! What? There's another reason? You just want to know my answer? Then... <>Da! ...I do, and I'll never ever let you down!"
+    ],
+    "dialogue3": [
+      "A new mission? ...No? You just want to have a chat with me? Alright, then let me give you a detailed comparison between SVD and me."
+    ],
+    "dialogue2": [
+      "SVD turned me down again when I challenged her to a duel. I'm gonna show her next time! ...Hmm? Commander? W-when did you come in?!"
+    ],
+    "dialogue1": [
+      "Commander, what do you think about me? Am I better than SVD? Give me a straight answer! Don't dodge the question!"
+    ],
+    "gain": [
+      "Zdravo, Commander. I am Zas M76. Please look forward to my performance. I will prove myself better than SVD in every aspect."
+    ]
+  },
+  "Hunter": {
+    "titlecall": [
+      "Girls' Frontline"
+    ]
+  },
+  "Intruder": {
+    "mood2": [
+      "Ahh...!"
+    ],
+    "titlecall": [
+      "Girls' Frontline"
+    ]
+  },
+  "TMP_0": {
+    "gain": [
+      "Co-Commander, pleased to meet you. My name is TMP...pl-please don't look at me like that! I'm begging you..."
+    ],
+    "introduce": [
+      "Co-Commander, pleased to meet you. My name is TMP...pl-please don't look at me like that! I'm begging you..."
+    ]
+  },
+  "EVO3_0": {
+    "gain": [
+      "Hello, Commander~ Scorpion EVO 3, officially part of the team as of today. Please look after me~"
+    ],
+    "introduce": [
+      "Hello, Commander~ Scorpion EVO 3, officially part of the team as of today. Please look after me~"
+    ]
+  },
+  "T5000_0": {
+    "gain": [
+      "Good day Commander, I'm T-5000... My apologies. If my first impression is too overwhelming then please forget about it."
+    ],
+    "introduce": [
+      "Good day Commander, I'm T-5000... My apologies. If my first impression is too overwhelming then please forget about it."
+    ]
+  },
+  "X95_0": {
+    "gain": [
+      "This is wonderful, Commander, we meet at last. I, X95, will give everything I have for you… No, not just for you, for everyone."
+    ],
+    "introduce": [
+      "This is wonderful, Commander, we meet at last. I, X95, will give everything I have for you… No, not just for you, for everyone."
+    ]
+  },
+  "Destroyer": {
+    "titlecall": [
+      "Girls' Frontline"
+    ]
+  },
+  "BossArchitect": {
+    "titlecall": [
+      "Girls' Frontline"
+    ]
+  },
+  "98K_Live2D": {
+    "hello": [
+      "Guten Morgen, Commander~"
+    ]
+  },
+  "CAR": {
+    "gain": [
+      "C-Commander... Hello, I'm CAR... Y-you'd like to welcome me? No, no thanks. I'm just glad this place is safe..."
+    ],
+    "dialoguewedding": [
+      "I hope you'll remember my name...even if you're the only one who does."
+    ],
+    "introduce": [
+      "C-Commander... Hello, I'm CAR... Y-you'd like to welcome me? No, no thanks. I'm just glad this place is safe..."
+    ],
+    "soulcontract": [
+      "I can have your blessings...even though I'm just a nameless pawn? <>Thank you very much. In return, I'm happy to keep serving under you... <>Commander."
+    ],
+    "dialogue3": [
+      "Ah, better not touch this fire extinguisher! It's our final resort when danger arises."
+    ],
+    "dialogue2": [
+      "Take a good rest, Commander, and leave the rest to me."
+    ],
+    "dialogue1": [
+      "Commander, is the base completely secure...? If there's a fire...I probably won't be of much use, but I'll help!"
+    ]
+  },
+  "HSM10": {
+    "gain": [
+      "High Standard Model 10 shotgun, reporting for duty! Commander, you have my allegiance!"
+    ],
+    "dialoguewedding": [
+      "From now on, make sure you tell me if you get hurt; I always have a medkit with me... To protect others properly, you must first take good care of yourself...so that you can charge into battle in the vanguard with me!"
+    ],
+    "introduce": [
+      "High Standard Model 10 shotgun, reporting for duty! Commander, you have my allegiance!"
+    ],
+    "soulcontract": [
+      "What are you hiding behind your back, Commander? Is it anything dangerous? Give it here— <>Huh? H-how can it be a ring? Don't tell me...it's for someone else? <>Ha, just kidding. But if it is, I'm going to have to arrest you, you hear?"
+    ],
+    "dialogue3": [
+      "You have nightmares when you sleep? Can't be helped then, I'll be your special guard tonight. I'm here, so sleep tight."
+    ],
+    "dialogue2": [
+      "You remind me of my previous boss a lot... Huh? In what way? I suppose it's the way you treat people? Also...you're very nice to me."
+    ],
+    "dialogue1": [
+      "Don't be shy, everyone is like family to me, so just come and help me with the noodles tonight, okay?"
     ]
   }
 }
