@@ -1711,7 +1711,7 @@
       "Eh?! What is this thing?!<>A-Am I really good enough? ...But if I am the one you have chosen, then I won't let it go to anyone else!<>Please allow me to stay by your side to become stronger!"
     ],
     "introduce": [
-      "The initial design for FF FN-49 was finalized long ago, but war broke out just before it entered the production stage, and the creator fled the country with all research materials to prevent them from falling into enemy hands. nAfter the war ended, I was eventually produced and put onto the market. I will keep working hard to live up to everyone's expectations, Commander!"
+      "The initial design for FF FN-49 was finalized long ago, but war broke out just before it entered the production stage, and the creator fled the country with all research materials to prevent them from falling into enemy hands. After the war ended, I was eventually produced and put onto the market. I will keep working hard to live up to everyone's expectations, Commander!"
     ],
     "allhallows": [
       "Such a scary holiday... I'd better stay home to hand out candy instead. I just hope I won't be frightened when I open the door..."
@@ -6674,6 +6674,87 @@
     ],
     "gain": [
       "Commander, if you wish to send flowers to the enemy's funeral...then I am the perfect choice."
+    ],
+    "allhallows": [
+      "With the mere presence of some kids with candy, even this silent night has become a little more endearing."
+    ],
+    "attack": [
+      "Don't get too far from the target."
+    ],
+    "blackaction": [
+      "The enemy will not escape our pursuit."
+    ],
+    "break": [
+      "Blood and tears......It's all the same to me."
+    ],
+    "buildover": [
+      "I wonder what sort of flowers will bloom this time?"
+    ],
+    "christmas": [
+      "Haa......Whenever this season comes around, I struggle to keep awake. Alas, no matter how satisfying my slumber, Santa's gift will never arrive."
+    ],
+    "combine": [
+      "At this rate, the number of funerals shall increase once more."
+    ],
+    "defense": [
+      "Attack in moderation."
+    ],
+    "feed": [
+      "May this power continue to bloom......"
+    ],
+    "fix": [
+      "I will not forget this pain......"
+    ],
+    "formation": [
+      "Being together with everyone is my honour."
+    ],
+    "goattack": [
+      "I shall let this scent envelop the battlefield."
+    ],
+    "hello": [
+      "Well then......It's time to move out."
+    ],
+    "loading": [
+      "Commander, bring this flower along with you."
+    ],
+    "meet": [
+      "Allow me to offer up your funeral......"
+    ],
+    "newyear": [
+      "The past has come to an end. It is time to welcome a new beginning."
+    ],
+    "operationbegin": [
+      "Alright, let us proceed as planned."
+    ],
+    "operationover": [
+      "Commander, I've brought the goods you desired."
+    ],
+    "phrase": [
+      "It's over."
+    ],
+    "retreat": [
+      "Everything......has wilted......"
+    ],
+    "skill1": [
+      "Allow me to deliver your death......"
+    ],
+    "skill2": [
+      "Forget the sensation of living."
+    ],
+    "skill3": [
+      "Do you all......shed tears?"
+    ],
+    "tanabata": [
+      "I once made a wish, that my tears could flow. But now......I've given up on that."
+    ],
+    "tip": [
+      "This flower......It's emitting such a sweet scent."
+    ],
+    "win": [
+      "The battlefield is a place where one must trample over flowers for the sake of victory."
+    ],
+    "valentine": [
+      "The commander's office is full of the scent of chocolate. It must be blissful to work in such an environment."
     ]
   },
   "T77": {
@@ -7452,13 +7533,13 @@
       "Commander, you sound so different from usual, I'm at a bit of a loss for how to handle it... <>I have always respected you, but I've found that this feeling has started to change... <>Now, there's no way I'll ever be able to forget this oath that you have sworn to me... ❤ "
     ],
     "introduce": [
-      "We meet at last, Commander. I am QBZ-03, and I am sure that I will gain greatly from your leadership. I'll be in your care."
+      "We meet at last, Commander. I am Type03, and I am sure that I will gain greatly from your leadership. I'll be in your care."
     ],
     "dialoguewedding": [
       "Commander, when things aren't going your way, take a look at the knot I gave you. I'm sure it'll bring you good luck."
     ],
     "gain": [
-      "We meet at last, Commander. I am QBZ-03, and I am sure that I will gain greatly from your leadership. I'll be in your care."
+      "We meet at last, Commander. I am Type03, and I am sure that I will gain greatly from your leadership. I'll be in your care."
     ]
   },
   "Mk46": {
@@ -9686,7 +9767,7 @@
       "The letter Gr Mk23 put on your desk? I didn't see it... Maybe she was trying to trick you! C'mon, Honey, don't think too much of it. Just get back to work. I'm gonna clear the trash for you..."
     ],
     "introduce": [
-      "KAC, salute! You smell of grapes... You really are the Honey that I've been waiting for! Don't be a stranger - just call me \"Honey\" as well~ ❤"
+      "K-PDW, salute! You smell of grapes... You really are the Honey that I've been waiting for! Don't be a stranger - just call me \"Honey\" as well~ ❤"
     ],
     "soulcontract": [
       "Why are you suddenly giving me such an important gift? Even if you don't, I totally understand your feelings, Honey... <>Yeah! From now on, I'll keep staying by your side, Honey. ❤ <>That'll show the stupid Dolls who it is that Honey cherishes the most, heh..."
@@ -9701,7 +9782,7 @@
       "Honey, open wide. Say \"ahh\" - I picked these fresh grapes myself. Do they taste good?"
     ],
     "gain": [
-      "KAC, salute! You smell of grapes... You really are the Honey that I've been waiting for! Don't be a stranger - just call me \"Honey\" as well~ ❤"
+      "K-PDW, salute! You smell of grapes... You really are the Honey that I've been waiting for! Don't be a stranger - just call me \"Honey\" as well~ ❤"
     ]
   },
   "SIG556": {
@@ -9900,6 +9981,151 @@
     ],
     "dialogue1": [
       "Don't be shy, everyone is like family to me, so just come and help me with the noodles tonight, okay?"
+    ]
+  },
+  "Triela": {
+    "gain": [
+      "Hello, Commander. I'm Triela. Please leave your personal safety to me."
+    ],
+    "dialoguewedding": [
+      "I had a really sweet dream... I think I dreamed of my mother? She was wearing glasses and a lovely perfume... She held me tight in her arms..."
+    ],
+    "introduce": [
+      "Hello, Commander. I'm Triela. Please leave your personal safety to me."
+    ],
+    "soulcontract": [
+      "This is...? I see, say no more.<>I understood everything the moment our eyes met.<>It's hard to put these feelings into words, but surely you can sense them in my eyes..."
+    ],
+    "dialogue3": [
+      "If you feel sad, come and have tea with me. There's magic in cake and a cuppa that can make people happy!"
+    ],
+    "dialogue2": [
+      "I only know classical music and how to use guns. I haven't the faintest idea about the latest music or TV programs... I bet it's hard to find topics we're all interested in."
+    ],
+    "dialogue1": [
+      "I've been collecting teddy bears lately. I have eight so far. This is Augustus, Grumpy, Happy, Sleepy..."
+    ]
+  },
+  "Claes": {
+    "gain": [
+      "Claes reporting for duty. If possible, please let me maintain my own little gardening patch at the base."
+    ],
+    "dialoguewedding": [
+      "Is there anywhere I'd like to go? If possible, please take me to the lake. I love being by the lake. Even when I'm not fishing, just spacing out there makes me feel calm and peaceful."
+    ],
+    "introduce": [
+      "Claes reporting for duty. If possible, please let me maintain my own little gardening patch at the base."
+    ],
+    "soulcontract": [
+      "...Do you fully grasp the significance of doing this?<>Once I accept this keepsake, we can never be apart.<>This command cannot be overwritten – it's a blood pact."
+    ],
+    "dialogue3": [
+      "I've been reading botanical books about planting different vegetables lately. It'll come in useful when veggie aliens invade Earth."
+    ],
+    "dialogue2": [
+      "Feeling incredibly sad but the tears won't come. Have you ever experienced that?"
+    ],
+    "dialogue1": [
+      "I once promised someone that I won't use violence when I have these glasses on."
+    ]
+  },
+  "Angelica": {
+    "gain": [
+      "Hello, I'm Angelica. If you need me for anything, please just give the order."
+    ],
+    "dialoguewedding": [
+      "I'm writing my diary. I write down all the things we do together every single day so that I won't forget important stuff again..."
+    ],
+    "introduce": [
+      "Hello, I'm Angelica. If you need me for anything, please just give the order."
+    ],
+    "soulcontract": [
+      "Is this...a promise?<>I'll protect you, and you'll protect me, and we'll always be together...<>And we'll live happily ever after just like the Prince of Pasta and Princess Pizza..."
+    ],
+    "dialogue3": [
+      "I couldn't go the the training ground on the night of the meteor shower, but thanks to Triela, my wish of watching the shooting stars with everyone was granted in a way!"
+    ],
+    "dialogue2": [
+      "Can't sleep? Then let me tell you a story. It's called \"The Prince of the Kingdom of Pasta\"..."
+    ],
+    "dialogue1": [
+      "Amnesia is the most ruthless disease in the world. So many important things, be them happy or sad, end up being forgotten just like that. "
+    ]
+  },
+  "Rico": {
+    "gain": [
+      "Hello, Commander. I'm Rico. This is the first time I've been here, but I love everything about this place!"
+    ],
+    "dialoguewedding": [
+      "Commander, could you keep your distance while I'm carrying out a mission? When you're right next to me, I keep getting distracted as I worry about your safety..."
+    ],
+    "introduce": [
+      "Hello, Commander. I'm Rico. This is the first time I've been here, but I love everything about this place!"
+    ],
+    "soulcontract": [
+      "I don't really understand the significance of this keepsake, but Claes told me it's a very important promise.<>Now that I have it, you'll never abandon me, right?<>In that case, as long as I keep it on when I sleep, I'll never have any bad dreams again..."
+    ],
+    "dialogue3": [
+      "Every morning, when I wake up, the first thought I have is: \"I wonder if I still have my body.\""
+    ],
+    "dialogue2": [
+      "I don't really understand what it means to be liked, it would be nice if someone liked me though!"
+    ],
+    "dialogue1": [
+      "Commander, it's such a rare outing. Isn't it a shame if we go back just like that...?"
+    ]
+  },
+  "Henrietta": {
+    "gain": [
+      "Hello, I'm Henrietta. Somehow you keep reminding me of someone else..."
+    ],
+    "dialoguewedding": [
+      "If my feelings aren't reciprocated, if I can't get the answer that I want no matter what I do, I might just... Perhaps it's best to change the subject..."
+    ],
+    "introduce": [
+      "Hello, I'm Henrietta. Somehow you keep reminding me of someone else..."
+    ],
+    "soulcontract": [
+      "I once thought there was this distance between us, that you were beyond my reach...<>Thank you for breaking down this barrier and letting me come close...<>Let's watch every starry sky together from now on, okay?"
+    ],
+    "dialogue3": [
+      "You have a lot of work today, Commander. Don't worry, I won't disturb you! I just want to stay by your side quietly..."
+    ],
+    "dialogue2": [
+      "Do you know the opera \"Tosca\" by Puccini? It's a tragedy, but I can relate to the intense passion depicted in the story... "
+    ],
+    "dialogue1": [
+      "The visibility is very high today, we could probably see the stars at night. If you're free tonight, please let me point out the Orion constellation for you!"
+    ]
+  },
+  "Weaver": {
+    "titlecall": [
+      "Girls' Frontline"
+    ]
+  },
+  "Alchemist": {
+    "titlecall": [
+      "Girls' Frontline"
+    ]
+  },
+  "97typeSMod": {
+    "soulcontract": [
+      "Commander, I've known how you've felt since a long time ago.<>But it's a little embarrassing to hear you say it out like this...<>In any case, why don't we go on a walk together first?"
+    ]
+  },
+  "RO635Mod": {
+    "soulcontract": [
+      "I'm sure you have your reasons for choosing me...<>But, please don't stand so close, because everyone...everyone's watching... I'm so embarrassed!"
+    ]
+  },
+  "SuperSASSMod": {
+    "soulcontract": [
+      "Commander, is there something special about today's get-together?<>Hm? Prepared for me? This is too much! Doesn't this mean I have to work even harder?<>Heheh, though this will be a piece of cake for me."
+    ]
+  },
+  "G11Mod": {
+    "soulcontract": [
+      "Commander, what did you wake me up so late for?<>Eh? Could this be...that so-called \"confession\"? Seeing that wholehearted expression on your face, I wouldn't be able to sleep properly if I don't accept your feelings.<>Alright...just this once."
     ]
   }
 }
