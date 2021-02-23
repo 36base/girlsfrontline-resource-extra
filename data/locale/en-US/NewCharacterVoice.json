@@ -10127,5 +10127,207 @@
     "soulcontract": [
       "Commander, what did you wake me up so late for?<>Eh? Could this be...that so-called \"confession\"? Seeing that wholehearted expression on your face, I wouldn't be able to sleep properly if I don't accept your feelings.<>Alright...just this once."
     ]
+  },
+  "HK416Agent": {
+    "introduce": [
+      "Agent of the Strategic Homeland Division, code name 416, reporting for duty under your command. Naturally, I will scrutinize your effectiveness as a commander."
+    ],
+    "dialoguewedding": [
+      "Wake up. There are still a lot of tough battles ahead. If we are to win, we must face them together."
+    ],
+    "phrase": [
+      "Time is short."
+    ],
+    "soulcontract": [
+      "Things are far from over on this island, but I believe that with your help, everything will go much more smoothly. <>Of course, given the current state of this place, I hope you're prepared for loss and sacrifice. <>If you want life to return to normal, then pray for this whole ordeal to come to an end soon."
+    ],
+    "blackaction": [
+      "I can handle this kind of battle with ease!"
+    ],
+    "combine": [
+      "I'm ready to give those enemies a nasty surprise."
+    ],
+    "fix": [
+      "If we had more cover, things wouldn't have turned out so badly..."
+    ],
+    "operationover": [
+      "I'm back. The stuff I found is over there. Go have a look yourself."
+    ],
+    "operationbegin": [
+      "I have no love for such a heavily contaminated place, but at least there's a chance of finding something good."
+    ],
+    "skill4": [
+      "I'm going to give you a complete burial this time!"
+    ],
+    "skill3": [
+      "Disruption grenade thrown!"
+    ],
+    "skill2": [
+      "The best is yet to be."
+    ],
+    "skill1": [
+      "Just you watch."
+    ],
+    "christmas": [
+      "I hope peace will be our gift next Christmas."
+    ],
+    "allhallows": [
+      "Prepare candy for children in the camp? There are many things left to do, but giving children hope is just as important. Let's get to it right away."
+    ],
+    "tanabata": [
+      "Make a wish? As if I had time for such things... Alright, alright... I wish these blasted days of chaos will be over soon."
+    ],
+    "valentine": [
+      "Chocolate contains a decent amount of calories, but they won't suffice as food supplies."
+    ],
+    "newyear": [
+      "A new year has begun, the situation is still as grim as ever, but more people will be joining us and we will slowly get the contamination under control. These are certainly cause for celebration."
+    ],
+    "retreat": [
+      "Things will only get worse if we stay..."
+    ],
+    "win": [
+      "It's settled here. Get someone to handle the rest."
+    ],
+    "break": [
+      "You'll regret this!"
+    ],
+    "defense": [
+      "The enemies are still firing at full strength! Stand your ground!"
+    ],
+    "attack": [
+      "Let's tear through their defenses here!"
+    ],
+    "meet": [
+      "The enemies won't have mercy for the weak! Give it everything you've got!"
+    ],
+    "goattack": [
+      "Time to clean the vermin off the streets!"
+    ],
+    "buildover": [
+      "They'd better be dependable."
+    ],
+    "dialogue3": [
+      "We can discuss the operation plan with the Joint Task Force. They often have to venture into different streets and alleyways, they must have plenty of experience dealing with trouble."
+    ],
+    "dialogue2": [
+      "Remember to disinfect any equipment brought back from the Dark Zone thoroughly."
+    ],
+    "dialogue1": [
+      "Got nothing to do? Then distribute the food and medical supplies I procured to the residents."
+    ],
+    "feed": [
+      "Intensive training? I'm game as long as it'll come in useful during combat."
+    ],
+    "formation": [
+      "I need people who know what they ought to be doing."
+    ],
+    "hello": [
+      "We'd better get started with the field mission. It is incredibly unwise to cause any delays."
+    ],
+    "gain": [
+      "Agent of the Strategic Homeland Division, code name 416, reporting for duty under your command. Naturally, I will scrutinize your effectiveness as a commander."
+    ]
+  },
+  "VectorAgent": {
+    "introduce": [
+      "Agent of the Strategic Homeland Division, code name Vector... Given the current situation, we must step forward. I, too, will make a stand when there is danger."
+    ],
+    "dialoguewedding": [
+      "Run into a difficult problem? If we put our heads together, we might be able to solve it."
+    ],
+    "phrase": [
+      "For retaking the city."
+    ],
+    "soulcontract": [
+      "I believe the seed of hope will sprout between us. <>It will eventually grow into a force that can put an end to this endless winter. <>This is the choice I make. It is my hope..."
+    ],
+    "blackaction": [
+      "Initiating situation analysis with ISAC."
+    ],
+    "combine": [
+      "The more strength we have, the sooner we can take back our city."
+    ],
+    "fix": [
+      "I'm just glad I didn't catch it. Don't worry too much about me."
+    ],
+    "operationover": [
+      "I found lots of supplies that our people desperately need. Let's start distributing them at once."
+    ],
+    "operationbegin": [
+      "I hope we won't return empty-handed."
+    ],
+    "skill4": [
+      "Don't even think about breaking through my defenses!"
+    ],
+    "skill3": [
+      "I'll give you cover!"
+    ],
+    "skill2": [
+      "Max mobility!"
+    ],
+    "skill1": [
+      "Come at me!"
+    ],
+    "christmas": [
+      "To me, time has practically remain frozen on this day. The long and lonely streets, the endless cold... I wonder when it will ever end."
+    ],
+    "allhallows": [
+      "We need to create a moment of jump-scare? That won't be particularly challenging since we're definitely in the right place for that."
+    ],
+    "tanabata": [
+      "My wish...? Take back the city... That's what I'm here for."
+    ],
+    "valentine": [
+      "Nobody could've known that the chocolate they received last Valentine's Day would be their last taste of sweetness."
+    ],
+    "newyear": [
+      "Happy New Year. The change may not be too noticeable, but our efforts are already coming to fruition."
+    ],
+    "retreat": [
+      "It'd be nasty if I get infected here..."
+    ],
+    "win": [
+      "The battles ahead will be even more arduous."
+    ],
+    "break": [
+      "Ugh! If only we had a medical interface...!"
+    ],
+    "defense": [
+      "Enemy fire is still very intense! Stay behind cover!"
+    ],
+    "attack": [
+      "The enemies are suppressed! Now's our chance to attack!"
+    ],
+    "meet": [
+      "Let's get this over with before things get any worse."
+    ],
+    "goattack": [
+      "Commencing field mission."
+    ],
+    "buildover": [
+      "The more reliable allies we have, the better."
+    ],
+    "dialogue3": [
+      "Agents used to have better logistics support. Why have things been reduced to such a sorry state..."
+    ],
+    "dialogue2": [
+      "I need to acquire more information about this place to have a better grasp on the situation's development."
+    ],
+    "dialogue1": [
+      "Apart from food and water, we also need medical supplies, weapons, electricity... There are still a lot of things that we need to sort out."
+    ],
+    "feed": [
+      "It'd be great if my immune system could also get a boost."
+    ],
+    "formation": [
+      "Give me your best..."
+    ],
+    "hello": [
+      "ISAC self-diagnostic completed. All equipment is functioning within normal parameters. All vital signs normal... Commander, I am ready for action."
+    ],
+    "gain": [
+      "Agent of the Strategic Homeland Division, code name Vector... Given the current situation, we must step forward. I, too, will make a stand when there is danger."
+    ]
   }
 }
