@@ -695,6 +695,92 @@
             "I am AK-Alfa, not Omega... Excuse me, but how do I get to the planetarium?"
         ]
     },
+    "AKAlfa_0": {
+        "gain": [
+            "I am AK-Alfa, not Omega... Excuse me, but how do I get to the planetarium?"
+        ],
+        "hello": [
+            "Huh, here already? Crap, my thermos is still open."
+        ],
+        "formation": [
+            "Please take care of me… I'm not feeling guilty!"
+        ],
+        "feed": [
+            "I don't feel like I've gotten taller. "
+        ],
+        "dialogue1": [
+            "The sun, the moon, the stars, and tin foil... They're all shiny, and so are the Commander's buttons. Um, may I take a closer look at your buttons?"
+        ],
+        "dialogue2": [
+            "B-Beer?! That's a beverage that only grown-ups can drink, I have no interest in it! I've brought my own sour plum drink. It's enough for me..."
+        ],
+        "dialogue3": [
+            "I wear my gas mask when I head out... The air is really bad outside, right? If my circuits get contaminated, I won't grow any taller."
+        ],
+        "buildover": [
+            "Um, would you like some sour plum drink?"
+        ],
+        "goattack": [
+            "Let, let's go!"
+        ],
+        "introduce": [
+            "I am AK-Alfa, not Omega... Excuse me, but how do I get to the planetarium?"
+        ],
+        "meet": [
+            "Bad things need to be beaten!"
+        ],
+        "attack": [
+            "Charge!"
+        ],
+        "defense": [
+            "Ah, please fall back..."
+        ],
+        "break": [
+            "Ugh, I'm falling apart... I'm sorry... I'm so sorry!"
+        ],
+        "win": [
+            "You're so cool, Commander. Will I ever grow to be this cool?"
+        ],
+        "retreat": [
+            "Oh no, we can't hold out, everyone run!"
+        ],
+        "skill1": [
+            "(Groan) That's heavy."
+        ],
+        "skill2": [
+            "The recoil... It's too strong~"
+        ],
+        "skill3": [
+            "I'm going to fall down!"
+        ],
+        "operationbegin": [
+            "I hope I'll find a piece of meteorite on this trip."
+        ],
+        "operationover": [
+            "I didn't find any meteorites, but I got everything that you want."
+        ],
+        "fix": [
+            "Wait, this bottle of vodka isn't garbage, don't throw it away!"
+        ],
+        "combine": [
+            "Now I'll have more people to talk to... Wait a minute, talking to yourself is just too sad."
+        ],
+        "blackaction": [
+            "Got it, I won't disappoint you."
+        ],
+        "soulcontract": [
+            "You and me, Commander? Hmm... <>I hear this is a very solemn oath. I'm not sure if I'm good enough for this. <>But I'll do my best, because you're the stars to me!"
+        ],
+        "titlecall": [
+            "Girls' Frontline"
+        ],
+        "dialoguewedding": [
+            "I want to be of more help to you, so I've been reading more books lately. But sci-fi is so much more exciting than non-fiction. Do you like sci-fi, Commander?"
+        ],
+        "loading": [
+            "Coming, don't rush me."
+        ]
+    },
     "Ameli": {
         "dialogue1": [
             "I can't understand very complicated things, so you can just tell me your decisions, Commander."
@@ -9525,11 +9611,251 @@
     "Excutioner": {
         "titlecall": [
             "Girls' Frontline"
+        ],
+        "accept": [
+            "Okay!"
+        ],
+        "agree": [
+            "Oooh, you're right!"
+        ],
+        "appreciate": [
+            "Cool!"
+        ],
+        "attack": [
+            "Advance! Advance!"
+        ],
+        "blackaction": [
+            "Humph, don't worry and just leave it to me!"
+        ],
+        "breakthrough01": [
+            "Ah...that was nice. Cheers!"
+        ],
+        "breakthrough02": [
+            "Okay, okay, since you trust me so much, I'd better show you what I've got."
+        ],
+        "dead01": [
+            "Humph... Not too shabby..."
+        ],
+        "dead02": [
+            "Is this...the ending that I've been looking forward to...?"
+        ],
+        "defense": [
+            "Humph, then let's wait here for a while!"
+        ],
+        "dialogue01": [
+            "Well? I'm always up for a drink!"
+        ],
+        "dialogue02": [
+            "Don't spend all your time hunting outside, Hunter! Come and have a drink with me!"
+        ],
+        "dialogue03": [
+            "Scarecrow, what are you up to today? Let me see!"
+        ],
+        "dialoguewedding": [
+            "Battles should be savored, though I'm actually against violence. The profession of executioner is a symbol of civilization and progress, don't you think? ...I'm not drunk! Make sure you come and drink with me every now and then!"
+        ],
+        "feed01": [
+            "Hahaha, that felt awesome!"
+        ],
+        "feed02": [
+            "Cool! So I've become stronger, right?"
+        ],
+        "feeling": [
+            "Hahaha!"
+        ],
+        "fix": [
+            "Is it my turn...?"
+        ],
+        "formation01": [
+            "Outta the way, coming through!"
+        ],
+        "formation02": [
+            "Humph, is it finally my turn?!"
+        ],
+        "formation03": [
+            "Okay, just watch how I make short work of them!"
+        ],
+        "gain01": [
+            "Executioner of Sangvis Ferri, that's MOI! Send me onto the battlefield already!"
+        ],
+        "gain02": [
+            "Hahaha, Executioner reporting for duty! That's right, here I come again!"
+        ],
+        "goattack": [
+            "Right, let's turn this place upside down!"
+        ],
+        "hello": [
+            "There you are! Come and drink with me!"
+        ],
+        "loading": [
+            "Can't be helped. Guess I'll keep you company while you wait."
+        ],
+        "lowmood": [
+            "Sigh..."
+        ],
+        "meet": [
+            "So you're the ones who dare challenge me?"
+        ],
+        "mood1": [
+            "Heh..."
+        ],
+        "mood2": [
+            "Huh?!"
+        ],
+        "phrase": [
+            "Okay, got it."
+        ],
+        "retreat": [
+            "I'll be back to have my vengeance, remember that!"
+        ],
+        "skill01": [
+            "You think you can run away just like that?!"
+        ],
+        "skill02": [
+            "Humph, scared of me?"
+        ],
+        "skill03": [
+            "C'mon, come at me!"
+        ],
+        "soulcontract": [
+            "Huh? What's with this...completely out of the blue, Commander?! +Well...I'm not against it since it's an order from you... +Heh, I'm actually quite pleased!"
+        ],
+        "tip": [
+            "What do you think? Do you find these helpful?"
+        ],
+        "upgrade01": [
+            "I'm digging this new power!"
+        ],
+        "upgrade02": [
+            "Oooh! You're quite capable, aren't ya!"
+        ],
+        "win": [
+            "Haha, is that it? I haven't had enough!"
         ]
     },
     "Scarecrow": {
         "titlecall": [
             "Girls' Frontline"
+        ],
+        "accept": [
+            "Understood."
+        ],
+        "agree": [
+            "Indeed."
+        ],
+        "appreciate": [
+            "Not bad."
+        ],
+        "attack": [
+            "We advance as planned."
+        ],
+        "blackaction": [
+            "Let's begin the extermination."
+        ],
+        "breakthrough01": [
+            "I shall put the data on paper into action."
+        ],
+        "breakthrough02": [
+            "A commendable modification. From an objective point of view...I approve."
+        ],
+        "dead01": [
+            "It was...my mistake..."
+        ],
+        "dead02": [
+            "A possibility...that I didn't account for...?"
+        ],
+        "defense": [
+            "Stand by for now."
+        ],
+        "dialogue01": [
+            "Do you require intel analysis? Ready when you are."
+        ],
+        "dialogue02": [
+            "The Griffin database is way too outdated. Allow me to update your records on Sangvis Ferri."
+        ],
+        "dialogue03": [
+            "Commander, something seems to have slipped your mind. Would you like me to remind you?"
+        ],
+        "dialoguewedding": [
+            "If I'm careless with my words, I could end up hurting many. So I just need to be a scarecrow – I serve in silence... +But I won't be like that with you, because no matter how I hurt you, you'll always stay close to me, won't you? Humph, just kidding."
+        ],
+        "feed01": [
+            "Thank you, you have made the right decision."
+        ],
+        "feed02": [
+            "Now I can perform even better in combat."
+        ],
+        "feeling": [
+            "Humph..."
+        ],
+        "fix": [
+            "Don't put Executioner in the same repair bay as me. She'll disturb my thinking."
+        ],
+        "formation01": [
+            "In return for your favor, I will increase the probability of our victory."
+        ],
+        "formation02": [
+            "Yes, Commander. You have made your intentions clear."
+        ],
+        "formation03": [
+            "Oh? New orders?"
+        ],
+        "gain01": [
+            "Scarecrow of Sangvis Ferri Industries, at your service starting from today. Please give the order."
+        ],
+        "gain02": [
+            "Scarecrow of Sangvis Ferri Industries... Looks like there is already information about me in your database, so just give me your orders."
+        ],
+        "goattack": [
+            "Your chances of victory are at zero."
+        ],
+        "hello": [
+            "Scarecrow, ready for action. Please give the order."
+        ],
+        "loading": [
+            "Would you like some coffee?"
+        ],
+        "lowmood": [
+            "Sigh..."
+        ],
+        "meet": [
+            "Nice to meet you. Please die."
+        ],
+        "mood1": [
+            "Haha..."
+        ],
+        "mood2": [
+            "Huh?!"
+        ],
+        "phrase": [
+            "Understood, right away."
+        ],
+        "retreat": [
+            "I don't accept this..."
+        ],
+        "skill01": [
+            "Your resistance is within my calculations. It's futile."
+        ],
+        "skill02": [
+            "Found you."
+        ],
+        "skill03": [
+            "What, not happy with this?"
+        ],
+        "soulcontract": [
+            "Why have you given me this? Am I supposed to pass it on to someone else? +...It's for me? Humph, then I suppose I have no choice but to accept. +No...I never thought about refusing it. It's a sign of your trust, Commander."
+        ],
+        "tip": [
+            "Commander, "
+        ],
+        "upgrade01": [
+            "Just a simple update?"
+        ],
+        "upgrade02": [
+            "Perfect, the data of my neural cloud have been updated."
+        ],
+        "win": [
+            "I told you – this is your only possible fate."
         ]
     },
     "HowaType89": {
@@ -9919,6 +10245,24 @@
         ],
         "introduce": [
             "Co-Commander, pleased to meet you. My name is TMP...pl-please don't look at me like that! I'm begging you..."
+        ],
+        "dialogue1": [
+            "Hmm... The metal plates sewn into this schoolbag seem pretty sturdy. Maybe I should just use them as protective gear?"
+        ],
+        "dialogue2": [
+            "Why are these Dinergates so naughty? They fiddled with the bell on my tail again! I'm such a good girl so why is this happening to me...?"
+        ],
+        "dialogue3": [
+            "I never get tired of this song. The best thing is how the singer embodies \"a grown-up's allure\" so perfectly. Commander, will I be able to perceive such allure when I grow up?"
+        ],
+        "christmas": [
+            "Another round, AK-47~ hic! ...You were the one who forced me to drink, weren't you~ Don't tell me you can't handle a little bit of alkie? Hahaha~"
+        ],
+        "soulcontract": [
+            "Commander, are you sure you want to enter such an important contract with me right now? <>(Sobs) I-I'm not crying because I'm scared! <>If I was older, I'd be able to handle such an occasion with more dignity!"
+        ],
+        "dialoguewedding": [
+            "C-Commander... Walk this Dinergate, will you?"
         ]
     },
     "EVO3_0": {
@@ -9927,6 +10271,21 @@
         ],
         "introduce": [
             "Hello, Commander~ Scorpion EVO 3, officially part of the team as of today. Please look after me~"
+        ],
+        "dialogue1": [
+            "Commander, I've amended the battle plan for you! Whoa, d-don't rub it off with your eraser! That isn't some random doodle!"
+        ],
+        "dialogue2": [
+            "Hmm, Commander, please make Vz.61 keep quiet. I need to get enough sleep or I won't grow properly."
+        ],
+        "dialogue3": [
+            "Don't worry. I may have grown smaller, but I'm still my mature and dignified self. Hmm? There's candy? Where?"
+        ],
+        "soulcontract": [
+            "Commander? You want to enter a contract with me? I'm so happy... <>Actually, I've always loved you, Commander. Now I can have you all to myself. <>Heheh, I need to show this to Vz.61 at once. She'll be so jealous!"
+        ],
+        "dialoguewedding": [
+            "Commander, are you resting? You don't often have free time, so come and play with me! Why don't we set off some fireworks together at night? I spent a long time preparing for this."
         ]
     },
     "T5000_0": {
@@ -9935,6 +10294,24 @@
         ],
         "introduce": [
             "Good day Commander, I'm T-5000... My apologies. If my first impression is too overwhelming then please forget about it."
+        ],
+        "dialogue1": [
+            "Don't go to school on an empty belly. Air the comforter when it's sunny. Watch the cars from both directions when crossing the road. Don't rely on other people. And...um... Commander! Don't laugh!"
+        ],
+        "dialogue2": [
+            "I don't like being at the forefront of everything... Only stupid kids enjoy drawing attention to themselves. But a hero is someone who steps forward when the situation calls for it."
+        ],
+        "dialogue3": [
+            "The true identity of Crimson Soul Kamen? I don't know, but does it matter? So long as they have the courage to step forward in a crisis, anyone can be Crimson Soul Kamen!"
+        ],
+        "valentine": [
+            "My chocolate isn't too special compared to theirs, is it? Mm, this will do."
+        ],
+        "soulcontract": [
+            "Do you want to be Crimson Soul Kamen as well, Commander? It entails responsibilities that not just anyone can shoulder, you know? <>Sheesh, stop pretending to be such a grown-up! <>Alright, take my hand, Commander! Let's fight side-by-side from now on!"
+        ],
+        "dialoguewedding": [
+            "Crimson Soul Kamen is a hero who defends freedom. The moment they hear a cry for help, they rush over right away and face any challenge fearlessly— C-Commander! There's a cockroach!"
         ]
     },
     "X95_0": {
@@ -9943,6 +10320,18 @@
         ],
         "introduce": [
             "This is wonderful, Commander, we meet at last. I, X95, will give everything I have for you… No, not just for you, for everyone."
+        ],
+        "dialogue1": [
+            "If a flower does its best to bloom in the wind, even if it's small and insignificant, surely someone will appreciate its beauty, don't you think?"
+        ],
+        "dialogue2": [
+            "Commander, here is my favorite candy and a pretty pebble... I can sense that you aren't very happy. I want to see you smile again..."
+        ],
+        "dialogue3": [
+            "When I become a grown-up like you, will I be able to do more to help everyone, Commander?"
+        ],
+        "soulcontract": [
+            "Commander, where would you like me to deliver— It...it's for me? <>Wow...it's a round ring that glitters in the sun... <>Then I'm keeping it. From now on, whenever I touch this ring, I'll think of the gentle smile that's on your lips right now..."
         ]
     },
     "Destroyer": {
@@ -10435,6 +10824,1898 @@
         ],
         "introduce": [
             "Don't stand on ceremony, Commander! I do appreciate the big welcome, but I'm sure things will grow a lot warmer and cozier between us~!"
+        ]
+    },
+    "NPC_Maid": {
+        "dialogue4": [
+            "If you run into any danger, I can temporarily fill in as your bodyguard. Don't worry, I am capable of subduing most enemies as long as they are not elite T-Dolls..."
+        ],
+        "dialogue3": [
+            "Mr. Kryuger wished to know about your progress for the day. Did everything go smoothly? Hm, understood, Commander. I shall relay your answer to Mr. Kryuger."
+        ],
+        "dialogue2": [
+            "Miss Kalina asked me to hand you the document that is currently on your desk. Please read through it, Commander."
+        ],
+        "dialogue1": [
+            "Commander, these pastries are an introductory gift from my master K. Please give them a taste. Would you like me to refill your tea?"
+        ],
+        "hello": [
+            "Commander, the room has been cleaned and tidied, and your coffee is ready. You may now commence your work today in peace."
+        ],
+        "contribution15": [
+            "These pictures show what Lake Baikal used to look like? Such a pity that this vast and flawless scenery is now lost forever. Commander, if one day, the world manages to repair the damage mankind has inflicted upon this site, I hope I can travel there together with you."
+        ],
+        "contribution14": [
+            "I once accompanied Master on a vacation by the Königssee. As I gaze upon the clean and serene water in those overlapping mountains, I felt indescribably moved."
+        ],
+        "contribution13": [
+            "A gift for me? Look at this perfect color and sheen. Such lovely teacups... Thank you, Commander. I will treasure them."
+        ],
+        "contribution12": [
+            "Whenever I see neat and elegant tea sets, I just can't help but appreciate them. That's my hobby, you say? Possibly..."
+        ],
+        "contribution11": [
+            "Things I like...? Hm, discount cards and coupons are great; the newest vacuum cleaner and a dishwasher would also be nice."
+        ],
+        "contribution10": [
+            "My master has made some modifications to my body. In an emergency, I can eject knives to attack the enemies. You think it's bad taste on Master K's part? Hm... I actually quite like this feature myself."
+        ],
+        "contribution9": [
+            "How do I differentiate between good and bad? Hm... Anything the Commander allows me to do is good; anything the Commander forbids me from doing is bad. Is that not acceptable...?"
+        ],
+        "contribution8": [
+            "Everything I do is for the sake of fulfilling your orders. Your wish is my command, and I will have no regrets, no matter what happens."
+        ],
+        "contribution7": [
+            "Who is stronger, me or the other Dolls? Commander, I will never lose to those who strive to compromise Griffin's cleanliness."
+        ],
+        "contribution6": [
+            "Commander, I have discovered that a few Dolls are using an illicitly converted Dinergate as a vacuum robot. I would like to file a severe protest."
+        ],
+        "contribution5": [
+            "Commander, please allow me to evict the Dolls who have made a mess in the room."
+        ],
+        "contribution4": [
+            "Commander, all the laundry has been dried in the sun. I hope you'll enjoy your fresh clothing and bedding."
+        ],
+        "contribution3": [
+            "This is Miss Kalina's procurement list, Commander. Please read through it."
+        ],
+        "contribution2": [
+            "Please remember to bring an umbrella if you're going out. According to the weather forecast, it may start raining in a bit."
+        ],
+        "contribution1": [
+            "Hello, Commander. Is your mission going smoothly?"
+        ],
+        "amusement": [
+            "Entertainment? I don't have any hobbies. I'd just like to keep you company..."
+        ],
+        "supper": [
+            "How about some fruit and yogurt for supper? A balanced diet is very important for your health."
+        ],
+        "dinnrer": [
+            "I have obtained some lovely ingredients from Miss Kalina. Please enjoy your dinner."
+        ],
+        "lunch": [
+            "It's time for lunch. Would you like to eat at the cafeteria, or should I serve your meal here?"
+        ],
+        "breakfast": [
+            "Commander, I'm leaving your breakfast here. Please eat it soon."
+        ],
+        "midnight": [
+            "Commander, out of concern for your health, I advise against staying up too late."
+        ],
+        "evening": [
+            "Good evening, Commander. Here is your coffee. I'll just leave the milk and sugar right next to you."
+        ],
+        "afternoon": [
+            "Commander, shall I prepare some jam and tea for your afternoon break?"
+        ],
+        "noon": [
+            "Would you like a midday nap, Commander? Your bed is ready."
+        ],
+        "morning": [
+            "Good morning, Commander. The weather is very nice today – perfect for hanging up the laundry."
+        ],
+        "loading": [
+            "Please wait a moment, Commander. It will be ready soon."
+        ],
+        "tip": [
+            "K has sent his maid Marlohe to Griffin to look after the Commander's daily life for the time being."
+        ],
+        "phrase": [
+            "My orders are paramount."
+        ],
+        "christmas": [
+            "Happy Holidays, Commander. I have double-checked all the presents for the Dolls, but there is an extra one... It's for me? Thank you. May I open it right away?"
+        ],
+        "allhallows": [
+            "Commander, please stay close to me today. Don't worry, I won't let any candy-stealing monsters near you."
+        ],
+        "tanabata": [
+            "Hikoboshi... Haha, I wonder if it's Master K or the Commander? Eeeep?! Commander? I...I was talking in my sleep?"
+        ],
+        "valentine": [
+            "Commander, I have prepared some extra dessert for your afternoon tea today –  chocolate handmade by me. I hope you'll like it."
+        ],
+        "newyear": [
+            "Commander, I have followed your instructions and switched your room to homebody mode. Huh? You are planning to stay in throughout the holidays? I know it's New Year, but isn't that a bit too indulgent...?"
+        ],
+        "buildover": [
+            "Commander, the Doll dormitories are all ready. I'm sure my new colleagues will find their accommodation satisfactory."
+        ],
+        "dialogue10": [
+            "The technicians at Griffin are incredibly skilled at maintenance. The most refreshing part of the week is going to the repair bay for my regular service."
+        ],
+        "dialogue9": [
+            "Commander, p-please do not disturb me while I clean. You are making it very difficult to focus on my work..."
+        ],
+        "dialogue8": [
+            "Commander, may I have your permission to use the training ground? I just ran into Miss RO and her friends in the hallway. For the sake of my master's and your safety, I would like to train myself so that I can hold my own against them."
+        ],
+        "dialogue7": [
+            "Master K's room is littered with ashes and cigarette butts. If you don't mind, Commander, please remind him to put out his cigarettes in the ash tray."
+        ],
+        "dialogue6": [
+            "Hm, hm, hmmmmm... Oh?! Commander, you heard that? I...I have a habit humming to myself when I clean. I don't know why, but it makes me happy."
+        ],
+        "dialogue5": [
+            "Commander, the vase was destroyed by a nefarious Doll that looked like a cat. I am currently dealing with the wreckage, so please give this area a wide berth for the time being."
+        ]
+    },
+    "NPC_Kryuger": {
+        "contribution15": [
+            "My chest has been marred by countless scars, but fortunately, my heart is still steady as a rock. It is also the source of my resolve to protect you and Griffin."
+        ],
+        "contribution14": [
+            "I can say for sure that you are the reason why Griffin survived the calamity. I have no doubts when it comes to your capability. I hope you can carry on and be a pillar to us all."
+        ],
+        "contribution13": [
+            "With your performance, you have really proven yourself to be my aide-de-camp."
+        ],
+        "contribution12": [
+            "I once thought I wasn't particularly good at expressing my feelings, but now it doesn't seem to be the case anymore. This could be thanks to you, Commander."
+        ],
+        "contribution11": [
+            "People my age keep laughing at me for still dreaming of peace, but I really do, and this is exactly why we can fight together side by side."
+        ],
+        "contribution10": [
+            "You remind me of my younger self. I didn't have much choice back then... But it's different for you. You still have a lot of opportunities – make sure you seize them and never let go."
+        ],
+        "contribution9": [
+            "Instead of a subordinate, I'd much rather think of you as a comrade-in-arms who shares my vision."
+        ],
+        "contribution8": [
+            "I have always done my best to protect what matters, and I kept losing them. But I still believe that things will all change one day."
+        ],
+        "contribution7": [
+            "I didn't think you'd be that interested in my relationship with Havier... It's not exactly a secret, but it's a really long story."
+        ],
+        "contribution6": [
+            "You want to hear about my experience in the Military? Understandable, but that will have to wait for a better opportunity."
+        ],
+        "contribution5": [
+            "The improvement in your performance as a Commander has been even more rapid than the speed at which Helian submits her reports. It pleases me a great deal to see a subordinate so eager to learn."
+        ],
+        "contribution4": [
+            "We owe each and every hard-earned victory to you and your Dolls' combined effort. I will never forget the glory you all have won for Griffin."
+        ],
+        "contribution3": [
+            "Just hand any new report over to Helian. She'll sift through and summarize all the data."
+        ],
+        "contribution2": [
+            "There's a change to this part of the plan? You might have some new insights if you approach it from a different angle."
+        ],
+        "contribution1": [
+            "Relax, Commander. I'm just here to check on you."
+        ],
+        "amusement": [
+            "Since there doesn't seem to be any important matter at hand, I'm going to take a short break."
+        ],
+        "supper": [
+            "If there are things you absolutely have to finish today, at least make sure you have enough energy to do them. Kalina should still be around. Get her to fetch you some supper."
+        ],
+        "dinnrer": [
+            "There's a banquet with the old geezers again, and I have to attend... I'm leaving everything here to you."
+        ],
+        "lunch": [
+            "It's already lunch time. If there are any work-related matters that you can't drop at the moment, we can discuss it over lunch."
+        ],
+        "breakfast": [
+            "Have you had breakfast? Can you finish these off as well...? Yeah, they're all from Kalina, even though I've already told her not to go to the trouble."
+        ],
+        "midnight": [
+            "You seem to be in much better shape than me – it must be the difference in age. I hate to admit it, but it's just the truth."
+        ],
+        "evening": [
+            "It's getting dark. Any incomplete tasks?"
+        ],
+        "afternoon": [
+            "Things are starting to get busy. You've just got to love this hustle and bustle."
+        ],
+        "noon": [
+            "Are you tired? Don't force yourself just because I'm here. Humans can indeed stretch our limits, but you shouldn't expect results overnight."
+        ],
+        "morning": [
+            "You seem quite energetic. Keep this up."
+        ],
+        "loading": [
+            "This is the perfect opportunity to train your patience."
+        ],
+        "tip": [
+            "You have questions for me? If getting the answers will help, then by all means."
+        ],
+        "phrase": [
+            "A shining beacon in a brave new world."
+        ],
+        "christmas": [
+            "In the past, snow at Christmas meant bad things would happen. Since I've had this assumption for a long time, I still believe it even to this very day."
+        ],
+        "allhallows": [
+            "Perhaps I'll have time to fool around with children once I retire, but until then, I'll leave this to you."
+        ],
+        "tanabata": [
+            "Make a wish? Hm, this probably sounds a bit idealistic... I wish for world peace. How's that? Not too bad, huh?"
+        ],
+        "valentine": [
+            "Chocolate for me? That's nice of you... I might return the favor."
+        ],
+        "newyear": [
+            "Peace still eludes this world. Please keep striving to be a shining beacon in a brave new world in the upcoming year."
+        ],
+        "buildover": [
+            "Commander, new Dolls are joining your ranks. Be sure to cherish them and their contributions."
+        ],
+        "dialogue10": [
+            "Always remember - \"A shining beacon in a brave new world.\""
+        ],
+        "dialogue9": [
+            "It's good to take a break regularly; just don't let it interfere with anything important."
+        ],
+        "dialogue8": [
+            "It's the same with both humans and Dolls – once you have formed an emotional attachment, it will affect your judgment. I don't wish to discourage you. I'm sure you have already mentally prepared for that."
+        ],
+        "dialogue7": [
+            "The world is always the same world no matter which era we're in, but we must keep up with the times. That's the only way we can survive – for our sake, and for the sake of all mankind."
+        ],
+        "dialogue6": [
+            "Thank you. You did well."
+        ],
+        "dialogue5": [
+            "I'll just leave the statistics report on your desk, alright? Don't mention it, it's nothing at all."
+        ],
+        "dialogue4": [
+            "I never thought you also had an immature side...or are you showing it to me because you consider me to be more liberal?"
+        ],
+        "dialogue3": [
+            "Not only is an excellent Commander astute and decisive, they must also possess the resolve to make difficult choices and bear the consequences that come with them."
+        ],
+        "dialogue2": [
+            "Every setback will add to you experience. If you want to grow, failures are inevitable."
+        ],
+        "dialogue1": [
+            "You don't always need my approval. Just do as you see fit."
+        ],
+        "hello": [
+            "Commander, I look forward to your performance."
+        ]
+    },
+    "NPC_Havel": {
+        "contribution15": [
+            "I am genuinely curious to see what will come of Griffin, which has been embroiled in all this chaos. Looks like these old bones will have to hang in there for quite a while longer."
+        ],
+        "contribution14": [
+            "Will you be the one who restores \"balance\" to all things, Commander?"
+        ],
+        "contribution13": [
+            "The balance has been broken, but the world is already striving for a new age of peace. Perhaps all new reforms are born of such tumultuous times."
+        ],
+        "contribution12": [
+            "Persica and Lyco are both a handful, but I quite enjoy working with them."
+        ],
+        "contribution11": [
+            "If the world was more peaceful, I might just be sitting in a fully automated sports car, cruising through a city right along the coastline."
+        ],
+        "contribution10": [
+            "Instead of this tiresome state of affairs, why don't we discuss something more personal?"
+        ],
+        "contribution9": [
+            "I'm finding our conversations more and more delightful. Try to give me some witty retorts. I might just satisfy your pointless curiosity."
+        ],
+        "contribution8": [
+            "I've rambled a lot out of nostalgia, though I don't think my experience would serve as any useful reference to you in your current circumstances. After all, our values are rather different."
+        ],
+        "contribution7": [
+            "Now that I think about it, I was also met with numerous obstacles during I.O.P's early days. Back then, I had to overcome challenge after challenge with nothing but my own wits."
+        ],
+        "contribution6": [
+            "As Griffin continues to expand, the pressure you're under, the questions and skepticism you face will only increase. It is an inevitable part of the process."
+        ],
+        "contribution5": [
+            "Just as how challenging it is for me to run I.O.P, it hasn't always been smooth sailing for Kryuger to lead Griffin. Are you ready to take over all the burden he has been shouldering all along?"
+        ],
+        "contribution4": [
+            "Devising strategies on the battlefield is not the only thing you can do for Griffin."
+        ],
+        "contribution3": [
+            "You really are quite similar to Kryuger. I can see why he holds you in such high regard."
+        ],
+        "contribution2": [
+            "Not everything is black-and-white. Profit is often hidden in that murky area between black and white. It is unfortunate, but it is a fact."
+        ],
+        "contribution1": [
+            "Entrepreneurs are all essentially profit-driven. This is my premise for choosing Griffin as my business partner."
+        ],
+        "amusement": [
+            "At my age, I can't afford to waste precious time on pointless recreation, but it doesn't hurt for a youngster to relax every now and then."
+        ],
+        "supper": [
+            "It's certainly nice to enjoy a little drink while all is quiet."
+        ],
+        "dinnrer": [
+            "I don't think there are any dreary banquets tonight. Shall we dine together?"
+        ],
+        "lunch": [
+            "Lunch? My health management team should be delivering it soon."
+        ],
+        "breakfast": [
+            "For people my age, breakfast should be kept light."
+        ],
+        "midnight": [
+            "Still working even at this hour? Griffin certainly owes its efficiency to your diligence."
+        ],
+        "evening": [
+            "Night has fallen, but there is no early rest for overseers like us, is there?"
+        ],
+        "afternoon": [
+            "Don't forget you still have your scheduled meeting with I.O.P this afternoon."
+        ],
+        "noon": [
+            "Is it noon already? Shouldn't you at least take a break?"
+        ],
+        "morning": [
+            "You're up early. If only Persica shared your regular daily routine."
+        ],
+        "loading": [
+            "Are you ready, young one?"
+        ],
+        "tip": [
+            "Pay attention to the tips, child."
+        ],
+        "phrase": [
+            "Now what?"
+        ],
+        "christmas": [
+            "I never believed in Santa Claus, but then a lovely Doll gave me this Christmas hat and said I'd look great giving out presents if I put it on. Oh, the irony..."
+        ],
+        "allhallows": [
+            "Oh bother. These old bones can't really take all this \"trick or treat\" business."
+        ],
+        "tanabata": [
+            "What a romantic festival. I suppose it doesn't hurt to relax on such an occasion."
+        ],
+        "valentine": [
+            "There is always so much business opportunity in the youngsters' festivals – like this little piece of chocolate. Perhaps I should try dabbling in the production and retail of processed foods."
+        ],
+        "newyear": [
+            "Happy New Year. May our partnership continue to thrive in the upcoming year."
+        ],
+        "buildover": [
+            "Your new Dolls are already complete? Then perhaps it's time to consider ordering a new batch?"
+        ],
+        "dialogue10": [
+            "Supporting you in your daring operations is always nerve-racking, but people who are overly cautious never amount to much."
+        ],
+        "dialogue9": [
+            "Only when we all strike the perfect \"balance\" can I.O.P's profits be maximized."
+        ],
+        "dialogue8": [
+            "Griffin's operations demonstrate the value of I.O.P. Judging by our recent Doll orders, our cooperation is mutually beneficial."
+        ],
+        "dialogue7": [
+            "A good partnership needs to be properly maintained by both sides, don't you agree, Griffin Commander?"
+        ],
+        "dialogue6": [
+            "Before you act, make sure achieving your objective will yield tangible gains. That's a piece of advice for you."
+        ],
+        "dialogue5": [
+            "How about a game of Raverbury chess, child?"
+        ],
+        "dialogue4": [
+            "If I think about it, I should have retired to the back lines a long time ago and just live out my old age in peace. What exactly is it that compels me to stay and obsess over this messy situation? "
+        ],
+        "dialogue3": [
+            "It is very risky to try to obtain information unrelated to business from a businessman. Information does not come with a clear price tag, and making a bad deal is taboo."
+        ],
+        "dialogue2": [
+            "It is never a bad thing to show some humility, young one."
+        ],
+        "dialogue1": [
+            "Do you wish to discuss new business?"
+        ],
+        "hello": [
+            "What is it? If I.O.P's service is urgently needed, I can make a rush order for you."
+        ]
+    },
+    "NPC_Deele": {
+        "contribution8": [
+            "Since being an adjutant at Griffin is a long-term job, I should probably consider installing a fire control core or something..."
+        ],
+        "contribution7": [
+            "\"The Griffin Commander's trusted right-hand man\". I like the sound of that~!"
+        ],
+        "contribution6": [
+            "If you had only survived in Manhattan that day, I wouldn't have had such a tragic ending."
+        ],
+        "contribution5": [
+            "When I see you working so hard, I can't slack off either as the adjutant."
+        ],
+        "contribution4": [
+            "This has been a great chance to get a better understanding of Griffin – and certainly of you, Commander."
+        ],
+        "contribution3": [
+            "I remember you didn't use to look at me like that... Whatever. Laugh all you want."
+        ],
+        "contribution2": [
+            "I don't know if I'm a Doll or a human to you – you don't have to answer in a hurry. Even I don't know for sure."
+        ],
+        "contribution1": [
+            "What happened in Manhattan has really given me some serious trust issues. In the past, I didn't trust people out of practicality, but now I just don't trust anyone out of instinct."
+        ],
+        "amusement": [
+            "Thinking about taking a break? Perfect! I've got plenty of games to recommend. I'm down with anything as long as we're not going back to Manhattan."
+        ],
+        "supper": [
+            "Supper looks really scrumptious tonight! Staying here isn't so bad after all~"
+        ],
+        "dinnrer": [
+            "Please don't treat me like a Doll at a time like this! I need food! The best there is!"
+        ],
+        "lunch": [
+            "It's time for lunch. Hey, you heard that? I don't want to stuff my belly with instant noodles!"
+        ],
+        "breakfast": [
+            "Commander, where's my breakfast? What? I have to prepare it myself?!"
+        ],
+        "midnight": [
+            "Is...isn't there any limit to your energy?"
+        ],
+        "evening": [
+            "You're still working? Whatever, I'm calling it a day."
+        ],
+        "afternoon": [
+            "Sorting out documents doesn't seem like much of a chore. Let me give it a go."
+        ],
+        "noon": [
+            "Have you decided what you're having for lunch? Not yet? Then I'll come and ask you again later."
+        ],
+        "morning": [
+            "I look tired? Is that surprising?"
+        ],
+        "buildover": [
+            "Your new Doll is ready for action... I hope I'll make a good impression before the others start sharing gossip about my embarrassing past."
+        ],
+        "dialogue10": [
+            "So those two agents also joined your ranks. Treat them well no matter what, Commander."
+        ],
+        "dialogue9": [
+            "Ever since I came to Griffin as Dima, things have felt completely different. Why is that?"
+        ],
+        "dialogue8": [
+            "I ran into Miss Vivi today; she was as cold as ever... But I count myself lucky that she didn't draw her weapon at the sight of me."
+        ],
+        "dialogue7": [
+            "It-it's Manhattan style! Since that's what I'm going for, I might as well pick something that looks good, right? Why do you care? You're jealous of me, aren't you?!"
+        ],
+        "dialogue6": [
+            "What kind of face do you expect me to make?!"
+        ],
+        "dialogue5": [
+            "Hey, what's the meaning of the sign that says \"Dima only\" next to the toilet? Explain yourself!"
+        ],
+        "dialogue4": [
+            "Even though I've given myself a Doll body, this is just a civilian model, so I will only carry out my duty as an adjutant. Don't even think about making me fight!"
+        ],
+        "dialogue3": [
+            "Ever since I was sent to Griffin as a Doll, I've been expecting you to drag the real me in as well. Commander, I know exactly what you're up to!"
+        ],
+        "dialogue2": [
+            "Well, this place is certainly more comfortable than that kind of freezing environment."
+        ],
+        "dialogue1": [
+            "I don't really care about the others, but even you are looking at me like that? Don't you understand my circumstances...?"
+        ],
+        "hello": [
+            "Commander, let's get started on today's work."
+        ]
+    },
+    "NPC_Helianthus": {
+        "contribution15": [
+            "You're tired already? As a Griffin Commander, at least show some grit... Where do you feel sore? Here? Hmm... How's the strength? Is this good?"
+        ],
+        "contribution14": [
+            "The Dolls look adorable in their wedding dresses. Which one...do you think would suit me?"
+        ],
+        "contribution13": [
+            "I knew you'd come around now... Not that I was looking forward to it! It-it's just...this is the only time I can enjoy some peace and quiet!"
+        ],
+        "contribution12": [
+            "I never noticed, but your schedule is really jam-packed... At least give yourself some free time, okay?"
+        ],
+        "contribution11": [
+            "Do I still smell like booze? Whatever, at least only you have noticed..."
+        ],
+        "contribution10": [
+            "W-would you be interested...in attending the next mixer? Don't misunderstand, there will be a few acquaintances, and it won't be too awkward if I bring you along. It's true!"
+        ],
+        "contribution9": [
+            "The Dolls are gossiping about me again? That's fine, I'm used to it... But what about you? Have you never thought about this subject yourself?"
+        ],
+        "contribution8": [
+            "Kalina is mainly in charge of logistics, though I haven't seen her all that much recently. Is she really so busy?"
+        ],
+        "contribution7": [
+            "We do have quite a lot in common when it comes to the way we work."
+        ],
+        "contribution6": [
+            "Has there been a change to the deployment of our Doll echelons? That's okay, we can get that sorted with just a short briefing."
+        ],
+        "contribution5": [
+            "...I'm very busy right now. We'll discuss the next mixer later – uh, I need to go... Ahem! Commander, how can I help you?"
+        ],
+        "contribution4": [
+            "I know you've won a lot of glorious battles, but the stakes will only get higher, so make sure you're mindful of your safety."
+        ],
+        "contribution3": [
+            "I came across a lot of couples on my way home last night – I thought it was some kind of festival. Young people these days..."
+        ],
+        "contribution2": [
+            "I do dress casually in daily life, but work is work!"
+        ],
+        "contribution1": [
+            "Don't be so tense just because I'm here. Do I look like some kind of boss from hell?"
+        ],
+        "amusement": [
+            "What's that TV show called again...? In any case, let me just write down that date idea into my proposal."
+        ],
+        "supper": [
+            "Commander, let's go get some drinks."
+        ],
+        "dinnrer": [
+            "Yet another day has passed. I wonder why time has started flying by so quickly..."
+        ],
+        "lunch": [
+            "It's lunch break already. If you can't spare the time to get food, I can give you some of mine just so you won't be on an empty stomach."
+        ],
+        "breakfast": [
+            "Have you had breakfast yet? Make sure you eat something before you start working, or you'll find it hard to make it through the morning."
+        ],
+        "midnight": [
+            "I saw the light was still on, and you're really here... I finally understand why Kalina says her workload is nothing compared to yours even though she's already that busy."
+        ],
+        "evening": [
+            "Is it already so late? Your zeal and diligence are commendable, but you should rest when its' time to rest."
+        ],
+        "afternoon": [
+            "It's barely afternoon and you're already nodding off? Sheesh, just how lazy are you when I'm not around?"
+        ],
+        "noon": [
+            "Getting ready for your lunch break? That's good, regular rest is good for your health."
+        ],
+        "morning": [
+            "It's only morning, don't look all tired. Perk up!"
+        ],
+        "loading": [
+            "Don't let down your guard."
+        ],
+        "tip": [
+            "Please refer to this manual if you have any questions."
+        ],
+        "phrase": [
+            "There's nothing wrong with being single..."
+        ],
+        "christmas": [
+            "Christmas present? Do you think I'm still young enough for that?"
+        ],
+        "allhallows": [
+            "I've prepared some sweets here. Give them out to the kids when they're here... Why are you staring at me so expectantly?"
+        ],
+        "tanabata": [
+            "If making wishes actually worked... If that really worked...!"
+        ],
+        "valentine": [
+            "Chocolate? For me? Humph, this is just some childish game for young people... Wait, I didn't say I wouldn't accept it!"
+        ],
+        "newyear": [
+            "Commander, please pay special attention to the security of the defense areas during this period of time... Oh, by the way, Happy New Year."
+        ],
+        "buildover": [
+            "New Dolls are reporting for duty... Commander, be sure to make full use of their potential."
+        ],
+        "dialogue10": [
+            "I am about to make a report to Mr. Kryuger. If there is anything you would like to bring to his attention, you can tell me now."
+        ],
+        "dialogue9": [
+            "You seem a little uptight. Are you usually like this?"
+        ],
+        "dialogue8": [
+            "You are not asking for my opinion, are you?"
+        ],
+        "dialogue7": [
+            "Dolls like that look cute? That's some good reference, but I don't think it's applicable to me at all..."
+        ],
+        "dialogue6": [
+            "It takes time to solve difficult problems; don't be impatient."
+        ],
+        "dialogue5": [
+            "Mixers...? D-don't go asking stupid questions!"
+        ],
+        "dialogue4": [
+            "It is my job to assist you, but have some sense of propriety!"
+        ],
+        "dialogue3": [
+            "I hope you can submit a satisfactory report. That way, we can both perform well in our respective duties."
+        ],
+        "dialogue2": [
+            "Commander, progress report?"
+        ],
+        "dialogue1": [
+            "Is there anything you need? It's alright, just name it."
+        ],
+        "hello": [
+            "Commander, as always, thank you for your hard work."
+        ]
+    },
+    "NPC_Kalina": {
+        "contribution15": [
+            "I never really noticed before, but your eyes are a beautiful color, Commander. How lovely."
+        ],
+        "contribution14": [
+            "What do you think about this oven? If you're happy with it, I'll buy one, and we can have cookies for supper from now on~!"
+        ],
+        "contribution13": [
+            "I don't really like thinking about my past, but if things hadn't been the way they were, I would never have joined Griffin, and I wouldn't be standing next to you now."
+        ],
+        "contribution12": [
+            "I've issued all the assignments to the Dolls, and we've cleared our agenda for the moment. Heheheh, are your shoulders feeling sore? I can give you a massage~!"
+        ],
+        "contribution11": [
+            "If only coordination among humans are as easy as it is among Dolls... Oh, nothing. Just a sudden thought, heheh."
+        ],
+        "contribution10": [
+            "Times like this are especially nice – we don't have to fight, and there's nothing to worry about at all. Heheh, wanna eat something, Commander?"
+        ],
+        "contribution9": [
+            "Huh, my gaze is making you uncomfortable? I never knew you had such an adorable side. How surprising~"
+        ],
+        "contribution8": [
+            "Commander, don't you have a tactical meeting with the Dolls? It's almost time, so just leave the data analysis to me~"
+        ],
+        "contribution7": [
+            "Commander, you must be tired having worked for so long. You can take a little nap, I'll come wake you on time~"
+        ],
+        "contribution6": [
+            "What do you usually do to relax, Commander? C'mon, tell me! I could use some suggestions."
+        ],
+        "contribution5": [
+            "Oh, the late-night radio program is getting more and more letters. Do Dolls have even more problems than humans?"
+        ],
+        "contribution4": [
+            "Whenever a new Doll is registered, we have to confirm the caliber of the rounds they use. Now that I think about it, we must be dealing with dozens of different calibers? That's why working in logistics isn't easy at all."
+        ],
+        "contribution3": [
+            "Oh, we'll be meeting a client next. I've already made all the arrangements. Don't be late."
+        ],
+        "contribution2": [
+            "Commander, let's discuss the matter of improving the Dolls' MREs later, okay?"
+        ],
+        "contribution1": [
+            "Commander~ I'm about to visit the Logistics Department. Got any orders?"
+        ],
+        "amusement": [
+            "Ah, Commander~ I'm just about to go feed the cats. Wanna come along?"
+        ],
+        "supper": [
+            "I always feel as if I hadn't eaten anything since lunch at this hour. Shall I prepare some supper, Commander?"
+        ],
+        "dinnrer": [
+            "A good dinner is the best way to treat your body after a hard day at work, don't you think?"
+        ],
+        "lunch": [
+            "Commander, it's time for lunch~ I've prepared a bountiful lunchbox~ Heheh, wanna try?"
+        ],
+        "breakfast": [
+            "I know I'm being long-winded, Commander, but breakfast is really important. Don't make your body suffer!"
+        ],
+        "midnight": [
+            "Ugh... Commander, don't your eyes ever get dry?"
+        ],
+        "evening": [
+            "It's already pretty late, Commander. You aren't planning to spend the night in the command room again, are you?"
+        ],
+        "afternoon": [
+            "Commander, it's already afternoon? Yaaaaaawn~ I wish my nap could've been longer..."
+        ],
+        "noon": [
+            "Take a short break, Commander. At least preserve some energy for your work in the afternoon, or your body won't be able to take it!"
+        ],
+        "morning": [
+            "Morning, Commander! Your agenda for today is on your desk. Feel free to ask me for help anytime!"
+        ],
+        "phrase": [
+            "Commander, what are you buying today?"
+        ],
+        "christmas": [
+            "Seriously, if Santa Clause were real, he should've given me my money by now!"
+        ],
+        "allhallows": [
+            "Uh, do I really have to go? You just want to see me dressed as a monster, don't you?"
+        ],
+        "tanabata": [
+            "\"Quick-witted and nimble-fingered\"? I'm always so engrossed in allocating our supplies, I've never really thought about it..."
+        ],
+        "valentine": [
+            "Here, chocolate~! Uh, you want me to be more ceremonious about it? That depends on how much you invest in my White Day chocolate, heheh!"
+        ],
+        "newyear": [
+            "Commander, Happy New Year~! Now that we've greeted each other, let's go for a hot drink together!"
+        ],
+        "buildover": [
+            "The new Dolls have completed their registration~ Do your best, everyone!"
+        ],
+        "dialogue10": [
+            "Huh? I thought it's already time to host the late-night radio program, but it's actually still early."
+        ],
+        "dialogue9": [
+            "Commander, why don't you try this office exercise routine? It's great for helping you relax~!"
+        ],
+        "dialogue8": [
+            "The claw machine I often go to has stocked some new plush toys. If I manage to grab any, I'll show you tomorrow~!"
+        ],
+        "dialogue7": [
+            "Oh, Commander! I'm just about to order some snacks. Would you like some too?"
+        ],
+        "dialogue6": [
+            "Commander, what are your orders? If you increase the budget for the Logistics Department, I'll gladly help~!"
+        ],
+        "dialogue5": [
+            "Is it already this hour? Let me get you some tea. The usual, right?"
+        ],
+        "dialogue4": [
+            "Commander, you're right on time! Here's the procurement list! If everything is in order, please allocate the necessary funds~ Heheh!"
+        ],
+        "dialogue3": [
+            "Com~man~der! Please focus on your task at hand!"
+        ],
+        "dialogue2": [
+            "Ugh, my shoulders are a bit sore... B-but it's fine~!"
+        ],
+        "dialogue1": [
+            "If all the surface recyclable materials extractors have already been dispatched, then the upcoming transport plans will have to be readjusted... Oh, sorry, Commander. I was lost in thoughts... Any orders?"
+        ],
+        "hello": [
+            "Welcome back, Commander! I've listed out everything that needs to be done today! Please have a look!"
+        ]
+    },
+    "NPC_Ange": {
+        "contribution15": [
+            "You think my prosthetic can feel warmth...? Stupid bastard..."
+        ],
+        "contribution14": [
+            "Have some tea. Now that we have some time, I don't mind if we get to know each other better."
+        ],
+        "contribution13": [
+            "I don't like dreaming. It's annoying how all kinds of memories get dredged up out of nowhere."
+        ],
+        "contribution12": [
+            "Recently, I've been starting to see some similarities between us, but then the idea always cracks me up."
+        ],
+        "contribution11": [
+            "Hm, you're starting to grow on me... What did I think of you before? You don't want to know."
+        ],
+        "contribution10": [
+            "In all seriousness, I have always thought of you as a friend when it comes to our aspirations."
+        ],
+        "contribution9": [
+            "The end does justify the means."
+        ],
+        "contribution8": [
+            "My usual life? Even if I had one, it wouldn't be particularly memorable."
+        ],
+        "contribution7": [
+            "I seem to have scared quite a few of your employees here. It's mostly related to some trivial matters in the past, but I think I should try to keep a low profile while I'm here."
+        ],
+        "contribution6": [
+            "Don't worry, I won't get in your way, but make sure you don't wander out of my sight either. I don't want to end up not getting paid for this job."
+        ],
+        "contribution5": [
+            "I'm very much against violence outside of work. What, you don't believe me?"
+        ],
+        "contribution4": [
+            "What about your Dolls? Isn't it more efficient to delegate more of your important tasks?"
+        ],
+        "contribution3": [
+            "I do talk to people sometimes, just in rather unusual ways...such as bending them over and shoving them into the toilet. It's very useful in getting them to tell the truth."
+        ],
+        "contribution2": [
+            "We're in this line of work. What do you expect, daily counseling service?"
+        ],
+        "contribution1": [
+            "We should be a bit clearer on our division of labor – I'll come up with solutions, you think about the costs."
+        ],
+        "amusement": [
+            "Relaxation? Huh, so you're the type to put this down on your schedule."
+        ],
+        "supper": [
+            "Boosting morale with food late at night... Not a bad idea."
+        ],
+        "dinnrer": [
+            "If you're interested, I can recommend a few MREs that I like."
+        ],
+        "lunch": [
+            "I gotta say, this is much more sumptuous than your usual workplace meal."
+        ],
+        "breakfast": [
+            "It's breakfast! You expecting some kind of fine dining experience? Now shut up and eat!"
+        ],
+        "midnight": [
+            "If you don't plan on turning in, then don't worry about whether I'm sleep-deprived. You're just asking for a thrashing."
+        ],
+        "evening": [
+            "Not a bad day, eh?"
+        ],
+        "afternoon": [
+            "Hey, are you already nodding off?"
+        ],
+        "noon": [
+            "Griffin is quite generous with our lunch breaks. Guess I'll find something to do to pass the time."
+        ],
+        "morning": [
+            "I've confirmed your schedule for today. It's going to be jam-packed. Want me to wake you up with some kind of drastic method?"
+        ],
+        "loading": [
+            "I'm busy. Leave me alone."
+        ],
+        "tip": [
+            "Now about the safety measures... Never mind, you'll watch yourself."
+        ],
+        "phrase": [
+            "Not interested."
+        ],
+        "christmas": [
+            "A day when everyone has their guard down – even the Dolls. I might just go ahead and do something more interesting."
+        ],
+        "allhallows": [
+            "You're planning to give out candy to children at orphanages on Halloween? This isn't exactly my forte, but if you need any help, I can help you with some heavy lifting."
+        ],
+        "tanabata": [
+            "If wishes actually came true, my job would be a lot easier."
+        ],
+        "valentine": [
+            "Thanks for the gift, but I haven't got the time to prepare you something in return. How about a piece of information that's of equal value? For example, I've been trying to arrange Helian's mixers these last few days and it's been driving me... What? You're not interested?"
+        ],
+        "newyear": [
+            "New Year, huh... I rarely ever talk about my home country. We all have our memories... Well, I can tell you, but you'd better offer a sum that can compel me to talk."
+        ],
+        "buildover": [
+            "There's no such thing as too many Dolls for you, is there? How about sending a few my way?"
+        ],
+        "dialogue10": [
+            "If you've got that much free time, you could go catch a wink at the medical room. Don't worry, I'm more than happy to cover for you."
+        ],
+        "dialogue9": [
+            "So these are the confidential documents... Relax. If I'd really wanted to read them, I could've done it in dozens of ways."
+        ],
+        "dialogue8": [
+            "You've got a good atmosphere going on – between you and your Dolls, I mean."
+        ],
+        "dialogue7": [
+            "I hear your company had no qualms about letting you suffer extremely grievous injuries... Relax, I've been informed by an insider. It's worth knowing, don't you think?"
+        ],
+        "dialogue6": [
+            "...You feel uncomfortable under my watchful eye? This is my job. You get your safety, I get my money. Get used to it."
+        ],
+        "dialogue5": [
+            "What, do I look like someone who lectures people on life philosophy?"
+        ],
+        "dialogue4": [
+            "In my book, curiosity is very likely to kill the cat."
+        ],
+        "dialogue3": [
+            "If you can be more focused on your work, I may have an even better opinion of you."
+        ],
+        "dialogue2": [
+            "You must be very confident in your ability to survive to be this foolhardy."
+        ],
+        "dialogue1": [
+            "Cut the crap and get to work."
+        ],
+        "hello": [
+            "You're here? Then let's get cracking with whatever work there is."
+        ]
+    },
+    "NPC_Jason": {
+        "contribution15": [
+            "You want to know what good qualities I find in you? Due to the nature of my work, I have come to notice all the qualities that you possess – both the good and the bad. I like them all the same."
+        ],
+        "contribution14": [
+            "I tried making some dessert today. If you don't mind, please give it a try... What, you've never been fed before?"
+        ],
+        "contribution13": [
+            "Music? Do show me what genre you like."
+        ],
+        "contribution12": [
+            "You want to hang around me? If it makes you feel safe, be my guest."
+        ],
+        "contribution11": [
+            "My parents once supported me in learning to play the trumpet, but I ended up in an entirely different line of work."
+        ],
+        "contribution10": [
+            "Never hesitate when it comes to important matters. I believe you will handle them just fine."
+        ],
+        "contribution9": [
+            "I'm not tired. It doesn't get much easier than this kind of close protection work."
+        ],
+        "contribution8": [
+            "In my line of work, I don't have the luxury of sipping coffee, so I do not have that habit."
+        ],
+        "contribution7": [
+            "Your logistics officer is displaying some abnormal behavior. Should I increase surveillance on her? She's feeding the cats? Alright... But next time, she should inform me beforehand."
+        ],
+        "contribution6": [
+            "I believe we now have a better understanding of each other. Hopefully, this will benefit our future cooperation. Sometimes, a lack of trust poses a serious problem when it comes to close protection work."
+        ],
+        "contribution5": [
+            "You'd better give me a copy of your weekend agenda. It's for the sake of your own personal safety."
+        ],
+        "contribution4": [
+            "I won't be here 24/7, but your Dolls should maintain the security arrangements I have put in place."
+        ],
+        "contribution3": [
+            "I have run a thorough background check on the client you are about to meet. You have five minutes to discuss the upcoming project. As always, don't get too close and avoid all physical contact."
+        ],
+        "contribution2": [
+            "Don't worry, I will not bug your room. It is not within the scope of my mission."
+        ],
+        "contribution1": [
+            "Any action that is unrelated to the mission is pointless. I advise against this."
+        ],
+        "phrase": [
+            "No comment."
+        ],
+        "christmas": [
+            "Compared to exchanging presents with you lot here, I'd much rather go back to my home country and enjoy a nice holiday."
+        ],
+        "allhallows": [
+            "Whenever I see children roaming the streets and asking for candy from their neighbors, I feel like all the sacrifices I have made are worth it."
+        ],
+        "tanabata": [
+            "I don't know too much about this festival, but if there's anything you need, I'll do my best."
+        ],
+        "valentine": [
+            "This is for me? It really isn't necessary, but thank you nonetheless."
+        ],
+        "newyear": [
+            "I haven't thought of New Year as a festival since a long time ago... But if it's part of the job, I suppose it doesn't hurt to celebrate just a bit."
+        ],
+        "buildover": [
+            "New Dolls? That's great, as long as they add to our strength."
+        ],
+        "dialogue10": [
+            "Unlike us, whose lives are constantly on the line, you tend to consider the bigger picture. I guess this is why I have been sent to ensure your personal safety. "
+        ],
+        "dialogue9": [
+            "I find it easier to work here than to deal with a certain someone."
+        ],
+        "dialogue8": [
+            "You behave very differently when you're not in battle. I suppose this is an effective way of throwing off your adversaries. "
+        ],
+        "dialogue7": [
+            "Many Dolls make unscheduled visits to your office. If it isn't for anything important, you should order them to stay at their posts instead of letting them run around."
+        ],
+        "dialogue6": [
+            "Matters about Statesec? That's beyond my scope of employment."
+        ],
+        "dialogue5": [
+            "There are quite a few destabilizing factors in the areas under your company's jurisdiction these days. You might want to avoid traveling there in person."
+        ],
+        "dialogue4": [
+            "Take this kind of questions to Marlohe. She's much more proficient in solving these issues. Me? I'm just here to do my job. Any more questions?"
+        ],
+        "dialogue3": [
+            "This place reminds me of a certain operation in Germany. Things went pretty pear-shaped afterwards."
+        ],
+        "dialogue2": [
+            "Unless you need to look outside, stay away from the windows. This is especially important when you're outside. It'd be best if you can make this a habit."
+        ],
+        "dialogue1": [
+            "I am here to ensure your safety, not work as your secretary. If you want that kind of service, ask your Dolls to do it."
+        ],
+        "hello": [
+            "Leave security to me today and focus on your own tasks. I won't bother you."
+        ]
+    },
+    "NPC_Seele": {
+        "contribution15": [
+            "Weird... Where is my hair tie? Commander, could you please help me look for it...? I can't see at all without my glasses."
+        ],
+        "contribution14": [
+            "Commander, I once told you I came to Griffin for two reasons. Having spent some time with you, I believe I have found a third."
+        ],
+        "contribution13": [
+            "Good evening. Isn't it strange? I said I would never work over-time, but I'm just so worried about you. I'll be here gaming with the sound muted until you're done with your work."
+        ],
+        "contribution12": [
+            "This prop... Are you also a fan of tokusatsu tv shows?! I've been obsessed with the genre since I was little! Many of those shows have aged incredibly well!"
+        ],
+        "contribution11": [
+            "I usually keep up my image as a lady when I'm with strangers, but since you're hardly a stranger, Commander... Outta my way! I gotta kick Dier in the ass today!"
+        ],
+        "contribution10": [
+            "You saw my acceptance letter? That's right, I did not enroll. One can only learn so much even at the best institute."
+        ],
+        "contribution9": [
+            "If people are born for each other, and everything is predetermined... Then what's the difference between humans and Dolls?"
+        ],
+        "contribution8": [
+            "There's a reason why Dier and I have different hair colors... No, never mind. It's nothing worth talking about. I might tell you when the time is right."
+        ],
+        "contribution7": [
+            "A lady should be well-mannered and soft-spoken, but she shouldn't be defined by these qualities alone. That is why to this day, I have never stopped learning. I hope that one day, I will truly..."
+        ],
+        "contribution6": [
+            "Unlike Dier, who specializes in mechanics, I'm interested in a wide variety of things – financial analysis, table-top games, fashion design, etc., etc. That's right, I designed 416's evening dress."
+        ],
+        "contribution5": [
+            "Hm... Commander, do you think 416 looks better in a long evening dress or a short skort? She looks good in both, don't you think?"
+        ],
+        "contribution4": [
+            "You never slow down in your work. You really should organize your time better. Would you like something to drink? Tea, coffee, or perhaps some milk?"
+        ],
+        "contribution3": [
+            "I love my family, which is why I must take responsibility as an elder sister and keep Dier safe. This is the second – and the most important - reason why I'm here."
+        ],
+        "contribution2": [
+            "Dier and I have received very good education, and we have enough financial support to pursue our studies and research in our preferred fields. We have our parents to thank for that."
+        ],
+        "contribution1": [
+            "I trust our boss, Miss Angelia, and I believe in those she has chosen. This is one of the two reasons why I'm here."
+        ],
+        "amusement": [
+            "Relaxation is a must. How about a laid-back game of Gwent?"
+        ],
+        "supper": [
+            "I know it's time for supper, but I don't eat after 9pm. You go ahead."
+        ],
+        "dinnrer": [
+            "Let's get some dinner once we're done with work. Do you like drinking tea over dinner?"
+        ],
+        "lunch": [
+            "Lunch is essential. Don't delay it or you'll mess up your biological clock."
+        ],
+        "breakfast": [
+            "A refreshing cup of coffee should be a staple in an adult's breakfast. I've made one for you."
+        ],
+        "midnight": [
+            "(Yawns) You're still up? I've already slept my first round."
+        ],
+        "evening": [
+            "It's time to head off, you know? I'll be going now. Make sure you watch the time."
+        ],
+        "afternoon": [
+            "Good afternoon, the remaining work is all yours. Shall I bring you some tea?"
+        ],
+        "noon": [
+            "You should take a break during lunch time. You're working too hard."
+        ],
+        "morning": [
+            "Good morning, Commander. I've arranged our agenda today."
+        ],
+        "loading": [
+            "Are you in a rush? I'll open the door for you."
+        ],
+        "tip": [
+            "It doesn't hurt to memorize this."
+        ],
+        "phrase": [
+            "I'm here."
+        ],
+        "christmas": [
+            "You're also putting out presents? How nostalgic... My family celebrates this festival. I'll have to send them their gifts via express delivery."
+        ],
+        "allhallows": [
+            "Sorry, Commander, but I don't want to leave the house today. I'm not afraid of the dark, but jump scares will interrupt my thoughts. Have fun though."
+        ],
+        "tanabata": [
+            "Make a wish...? I do have a lot of wishes. If I write down all of them, I'll need more than one card. I guess I'll just pick the one that's the least likely to come true."
+        ],
+        "valentine": [
+            "I have never made any chocolate by myself. I ordered this friendship chocolate just for you. The storage life isn't too long, so please finish it soon or share it with someone else."
+        ],
+        "newyear": [
+            "Today is a great opportunity to rest up, so just relax. Here are the gifts that my family have sent the three of us... That's right, three. They got this for you to thank you for taking care of us. Happy New Year, Commander."
+        ],
+        "buildover": [
+            "She will be a great addition to our ranks."
+        ],
+        "dialogue10": [
+            "416 is such a perfect lady on the battlefield, don't you agree?"
+        ],
+        "dialogue9": [
+            "Do you need some counseling? I might just be presumptuous, but you seem very lonely when you're staring at me and trying to make conversation."
+        ],
+        "dialogue8": [
+            "It's my principle to complete all my tasks during working hours. My time off is sacred and inviolable."
+        ],
+        "dialogue7": [
+            "All supplies at the base have been inventoried and organized. The accounts have also been audited. Here's a list of potential clients and partners. Please have a look."
+        ],
+        "dialogue6": [
+            "Even though we are currently under the employment of Griffin, you don't have to worry about our expenses at all. In fact, we still have close ties with our family."
+        ],
+        "dialogue5": [
+            "First impression matters, so I suggest you put more effort into your appearance."
+        ],
+        "dialogue4": [
+            "I'm alright with Dolls, though I'm better at communicating with humans."
+        ],
+        "dialogue3": [
+            "My skill set is quite similar to Kalina's, but I'm more adept at work that involves planning and organization, as opposed to external communications. Though if you need me to conduct negotiations, I'm also up to the task."
+        ],
+        "dialogue2": [
+            "If Dier makes any unreasonable demands, please make sure you let me know. Don't spoil him too much."
+        ],
+        "dialogue1": [
+            "Sorry, hang on. Right, saved... How may I help you, Commander?"
+        ],
+        "hello": [
+            "You came to work on the dot, Commander."
+        ]
+    },
+    "NPC_Persica": {
+        "contribution15": [
+            "I sometimes worry about you, but then I think you might not make the same mistakes that we did. You will break us out of this impasse, won't you, Commander?"
+        ],
+        "contribution14": [
+            "Now that we are absolutely on the same side, there are certain things that I need to clear up with you. Or do you want to figure them out on your own? Then go for it, I'll keep my eyes on you."
+        ],
+        "contribution13": [
+            "Sometimes I read fairy tales. If our forebears' theories could become reality, then the nice stories in the fairy tales could come true too, don't you think? Science is all about making the impossible possible."
+        ],
+        "contribution12": [
+            "When I first came up with the Etching Theory, I was hoping it would create bonds, not cause destruction. I know it sounds hypocritical coming from me, but I sometimes look back at its development with regret."
+        ],
+        "contribution11": [
+            "Commander, do you love your Dolls, or do you merely need them? Do you think there needs to be a differentiation between need and love?"
+        ],
+        "contribution10": [
+            "I didn't really like coffee in the beginning, but I needed it. Then as time went by, I stopped being able to differentiate between need and love."
+        ],
+        "contribution9": [
+            "Thinking requires energy, so coffee is quite conducive to thinking. How about five sugars? That's not too sweet, right?"
+        ],
+        "contribution8": [
+            "I think you have all the outstanding qualities of a person that can be entrusted with important things. This is why I have entrusted the AR Team to you."
+        ],
+        "contribution7": [
+            "You have stepped into a tenacious vortex, Commander. You shouldn't have been dragged so deep into this... You might never escape, you know?"
+        ],
+        "contribution6": [
+            "Ange and I have known each other for...not really a long time, but not a short time either. You seem quite curious about that. Both she and I trust you a great deal – that's all you need to know."
+        ],
+        "contribution5": [
+            "Meooooow. Huh, the Dolls with cat ears don't react to cat noises at all."
+        ],
+        "contribution4": [
+            "I'm sleepy, so I'm taking a short nap. If anyone comes, remember to wake me."
+        ],
+        "contribution3": [
+            "This storm caused by the flutter of a butterfly's wings – how many more years will it last...? Nothing, just talking to myself."
+        ],
+        "contribution2": [
+            "Every researcher dreams of exploring the boundaries of their field. Lyco and I only make up two of the countless explorers out there."
+        ],
+        "contribution1": [
+            "A lot of Dolls have gone through me – I still remember most of their names and functions, but a few of them no longer exist."
+        ],
+        "amusement": [
+            "Time to relax. Right, you relax, and I'll take a snooze. Lend me a shoulder... (Snores)"
+        ],
+        "supper": [
+            "Time for a midnight supper, Commander. What do you like to eat? I've got plenty of snacks here."
+        ],
+        "dinnrer": [
+            "Oh, the dinner menu here is quite different from what they have at I.O.P. What should I get...? Never mind, I'll just pick something randomly."
+        ],
+        "lunch": [
+            "Don't worry about my lunch. Let me get some more sleep, I'm still sleepy."
+        ],
+        "breakfast": [
+            "Remember... (snores) breakfast..."
+        ],
+        "midnight": [
+            "You're still awake? Huh, I thought I'd be the only one still working at this hour."
+        ],
+        "evening": [
+            "Good evening, Commander. What's up? I'm wide awake now, so name your demands."
+        ],
+        "afternoon": [
+            "Ah, I'm awake. This is the perfect time to start working."
+        ],
+        "noon": [
+            "It's so bright outside. Don't you ever draw the curtains, Commander?"
+        ],
+        "morning": [
+            "(Snores...)"
+        ],
+        "loading": [
+            "The door...opens automatically."
+        ],
+        "tip": [
+            "I think I wrote this."
+        ],
+        "phrase": [
+            "(Snores)"
+        ],
+        "christmas": [
+            "I think people used to send electronic cards to each other to convey their best wishes. How do you guys celebrate at Griffin? You give actual presents? Alright, I'll go with you."
+        ],
+        "allhallows": [
+            "People have all kinds of weird customs for weird festivals. I've decided to give out candy to the ghosts in my dreams. Alright, I'm going to bed then. See you tomorrow."
+        ],
+        "tanabata": [
+            "If hanging my wish onto the tree will make it come true, I wish there are 48 hours in a day."
+        ],
+        "valentine": [
+            "Chocolate for me? Thanks, this kind of chocolate tastes great in coffee."
+        ],
+        "newyear": [
+            "Even though we're both past the age of celebrating New Years, it's still nice to have some fun with the Dolls."
+        ],
+        "buildover": [
+            "Oh, so this is the model we're getting."
+        ],
+        "dialogue10": [
+            "The floor in the command room looks sparkling clean. I can walk barefoot in here, right?"
+        ],
+        "dialogue9": [
+            "The Dolls under Ange's command are all top of the line, but even they aren't almighty."
+        ],
+        "dialogue8": [
+            "You don't actually think these cat ears are real, do you? They're just attached to my custom-made earphones."
+        ],
+        "dialogue7": [
+            "You seem even more tired than me. Are you really okay?"
+        ],
+        "dialogue6": [
+            "Would you like some coffee as well? 10 sugars? Not that many...?"
+        ],
+        "dialogue5": [
+            "Sometimes, knowing too much might not be the best. Ignorance is bliss... Though you don't seem to agree at all."
+        ],
+        "dialogue4": [
+            "I know Havier seems very sketchy, but he has always been good to me.  Personally, I don't really have anything bad to say about such a boss."
+        ],
+        "dialogue3": [
+            "I know you have a lot of questions, but too many pairs of eyes are on both of us. I don't think it's a good idea to ask any sensitive questions."
+        ],
+        "dialogue2": [
+            "I am here mostly to help you, but also to be with M4. She is a good girl – and my most precious masterpiece."
+        ],
+        "dialogue1": [
+            "I wasn't dozing off – I was just doing some thinking."
+        ],
+        "hello": [
+            "Oh, you're here. Right on time."
+        ]
+    },
+    "WKP": {
+        "gain": [
+            "H-Hello, I'm Wkp. Nice to meet you... Uh, um, should I say anything else? "
+        ],
+        "dialogue1": [
+            "W-What is it? Stop staring at me like that... I-I'm not particularly good at chatting... Please just leave me alone, Commander!"
+        ],
+        "dialogue2": [
+            "I have a feeling that I should write to someone, but I can't remember who this someone is and what I should write... So I've been recording what I feel every day. When I finally recall who the recipient is, I'll send them everything. "
+        ],
+        "dialogue3": [
+            "...Do we have to keep chatting? Ugh, Commander, we've been doing this for almost two minutes. I almost can't speak anymore... Can I just listen to you while you talk?"
+        ],
+        "soulcontract": [
+            "Does this mean you're willing to accept my letters...? <>All of them? Unconditionally? Everything about me? <>You'll accept even someone as dull as me, someone who doesn't know how to hold a conversation...?"
+        ],
+        "dialoguewedding": [
+            "Commander, there's something I want to give you. It's not really a gift... These are all the letters I've written in the past. I think I've found the recipient after all..."
+        ],
+        "introduce": [
+            "H-Hello, I'm Wkp. Nice to meet you... Uh, um, should I say anything else? "
+        ]
+    },
+    "stg940": {
+        "gain": [
+            "Salutations, Commander. StG-940 reporting for duty. You can call me Wieger, or better yet, make it Big Sis Wieger! ♪"
+        ],
+        "dialogue1": [
+            "Commander, I'm trying to say hello to my little sisters and you're in the way. Little ones, wanna play with Big Sis Wieger? Oh, don't run so fast! Be careful not to trip..."
+        ],
+        "dialogue2": [
+            "Commander, why are you out strolling at this hour? I see, so you have trouble going to sleep... I'll walk you back, then I'll tell you a bedtime story and stay with you until you fall asleep, okay?"
+        ],
+        "dialogue3": [
+            "I'm preparing some presents for my little sisters. I'll be heading out on a mission, after all. They'll surely miss me a lot while I'm not at the base... What? They won't?!"
+        ],
+        "soulcontract": [
+            "I don't make promises easily. To me, oaths are worth keeping even at the cost of everything... <>Do you take your oaths as seriously as I do? <>...Hmm, I believe you, and I would like to keep this one with you."
+        ],
+        "dialoguewedding": [
+            "Were you asking for me, Commander? I was just about to go and play with my little sisters... You don't seem too happy? Then change of plan - I'll play with you instead! ♪"
+        ],
+        "introduce": [
+            "Salutations, Commander. StG-940 reporting for duty. You can call me Wieger, or better yet, make it Big Sis Wieger! ♪"
+        ]
+    },
+    "Brute": {
+        "dialogue01": [
+            "Whoooosh!"
+        ],
+        "dialogue02": [
+            "<O(—_— O)"
+        ],
+        "dialogue03": [
+            "<<O=（—_— O)"
+        ]
+    },
+    "Brute_SWAP": {
+        "dialogue01": [
+            ".../..../.-/.-./.--."
+        ],
+        "dialogue02": [
+            ".---/---/-.-/./.-."
+        ],
+        "dialogue03": [
+            "-.-/../.-../.-.."
+        ]
+    },
+    "Dragoon": {
+        "dialogue01": [
+            "Clatter! Clatter!"
+        ],
+        "dialogue02": [
+            ""
+        ],
+        "dialogue03": [
+            ""
+        ]
+    },
+    "FAMAS_0": {
+        "gain": [
+            "Commander, should you choose to have me reinforce the frontline, I will show you my worth is that of a hundred soldiers."
+        ],
+        "dialogue1": [
+            "Commander, don't touch me. I'm busy listening to the song these birds are singing for me."
+        ],
+        "dialogue2": [
+            "It's said that being honest with oneself is a sign of maturity. If that's true, then being able to admit that I love playing and having fun makes me a proper adult."
+        ],
+        "dialogue3": [
+            "Commander, shall I tell you a secret? Rather than those unbearably sweet desserts, I much prefer candy that comes in a multitude of flavors."
+        ],
+        "allhallows": [
+            "I don't care much for Halloween...but having candy to eat is not too bad!"
+        ],
+        "soulcontract": [
+            "Phew, now everything is sorted, Commander. <>Commander? Hmm... Don't just randomly start patting my head. <>...What? It's for me? Hooray! Now I can stick with you all the time, forever and ever!"
+        ],
+        "titlecall": [
+            "Girls' Frontline"
+        ],
+        "introduce": [
+            "Are you ready to receive me, who can take on ten enemies at the same time, Commander?"
+        ],
+        "dialoguewedding": [
+            "Commander, how did you make a mess of the room again? I'm not gonna clean this up for you. <>We do it together? Hmm...oh, fine. <>In return, you have to stay and play with me and the birds."
+        ]
+    },
+    "Dragoon_SWAP": {
+        "dialogue01": [
+            "Clack...Clack clack..."
+        ],
+        "dialogue02": [
+            ".-../../-.-/."
+        ],
+        "dialogue03": [
+            ".-/-./-"
+        ]
+    },
+    "Aegis": {
+        "dialogue01": [
+            "Thunk! Thunk! Thunk!"
+        ],
+        "dialogue02": [
+            "≒（—丷—∏）"
+        ],
+        "dialogue03": [
+            "..-./---/.-./.--/.-/.-./-.."
+        ]
+    },
+    "Aegis_SWAP": {
+        "dialogue01": [
+            "Thunk...thunk...thump..."
+        ],
+        "dialogue02": [
+            "..-./../--./..../-"
+        ],
+        "dialogue03": [
+            "-.../.-../---/---/-.."
+        ]
+    },
+    "Ripper": {
+        "dialogue01": [
+            "Dun-dun, dun-dun-dun, dun-dun-dun-dun!"
+        ],
+        "dialogue02": [
+            "╰╮o(￣皿￣///)"
+        ],
+        "dialogue03": [
+            " -../../."
+        ]
+    },
+    "Ripper_SWAP": {
+        "dialogue01": [
+            "-.-./.-./../--/."
+        ],
+        "dialogue02": [
+            ".-/-./-.."
+        ],
+        "dialogue03": [
+            ".--././-./.-/.-../-/-.--"
+        ]
+    },
+    "Vespid": {
+        "dialogue01": [
+            "Buzzz buzzz buzzzz"
+        ],
+        "dialogue02": [
+            ""
+        ],
+        "dialogue03": [
+            ".-/.--/.-/-.--"
+        ]
+    },
+    "Vespid_SWAP": {
+        "dialogue01": [
+            "Thunk thunk thump! Buzz..."
+        ],
+        "dialogue02": [
+            ""
+        ],
+        "dialogue03": [
+            "-/...././-..././."
+        ]
+    },
+    "Guard": {
+        "dialogue01": [
+            "Thump-thump! Thump-thump! Thump-thump!"
+        ],
+        "dialogue02": [
+            ""
+        ],
+        "dialogue03": [
+            ".../..../.././.-../-.."
+        ]
+    },
+    "Guard_SWAP": {
+        "dialogue01": [
+            ".../..../.././.-../-.."
+        ],
+        "dialogue02": [
+            "-..././..../../-./-.."
+        ],
+        "dialogue03": [
+            ""
+        ]
+    },
+    "Jaeger": {
+        "dialogue01": [
+            "Slam, bang! Slam, bang!"
+        ],
+        "dialogue02": [
+            ""
+        ],
+        "dialogue03": [
+            "...././.-/-.."
+        ]
+    },
+    "Jaeger_SWAP": {
+        "dialogue01": [
+            "Thunk thunk thump! Bang..."
+        ],
+        "dialogue02": [
+            ""
+        ],
+        "dialogue03": [
+            "-/..../././-./-.."
+        ]
+    },
+    "Jaguar": {
+        "dialogue01": [
+            "Groooowl..."
+        ],
+        "dialogue02": [
+            ""
+        ],
+        "dialogue03": [
+            "--/../.../..-./../.-./../-./--."
+        ]
+    },
+    "Striker": {
+        "dialogue01": [
+            "Rut-tut-tut-tut, rut-tut-tut-tut!"
+        ],
+        "dialogue02": [
+            ""
+        ],
+        "dialogue03": [
+            ""
+        ]
+    },
+    "Striker_SWAP": {
+        "dialogue01": [
+            "Thunk thunk thump! Rut-tut-tut..."
+        ],
+        "dialogue02": [
+            ""
+        ],
+        "dialogue03": [
+            "-././---"
+        ]
+    },
+    "Scouts": {
+        "dialogue01": [
+            "Beep, beep? Beep beep beep!"
+        ],
+        "dialogue02": [
+            "Ｏ(≧口≦)Ｏ！"
+        ],
+        "dialogue03": [
+            " -.././-/./-.-./-/./-.."
+        ]
+    },
+    "Prowler": {
+        "dialogue01": [
+            "Growl..."
+        ],
+        "dialogue02": [
+            "(v？ェ？v)"
+        ],
+        "dialogue03": [
+            "-.../.-/.../../-.-."
+        ]
+    },
+    "Prowler_SWAP": {
+        "dialogue01": [
+            "Groooooooowl..."
+        ],
+        "dialogue02": [
+            "(v？ヘ？v)"
+        ],
+        "dialogue03": [
+            ".-.././...-/./.-../..-/.--."
+        ]
+    },
+    "BrowningHP": {
+        "gain": [
+            "This is FN Browning, I salute you. A pleasant breeze blows today, Commander. Why don't we head outside for a stroll before we start working?"
+        ],
+        "hello": [
+            "Welcome back. How do you feel today?"
+        ],
+        "formation": [
+            "Everyone who's going into battle with me today, I'll be in your care."
+        ],
+        "feed": [
+            "Thank you very much. I feel like I can ride further now."
+        ],
+        "dialogue1": [
+            "Your clothes are wrinkled. Please stay still, let me smooth them out for you. Etiquette is very important even when you're at work."
+        ],
+        "dialogue2": [
+            "No matter how much one loves their work, one will inevitably have moments of frustration. I dislike taking my anger out on people I care about, and the best solution is to go for a ride. What do you think?"
+        ],
+        "dialogue3": [
+            "If you're tired, have a little something to drink. You must take care of yourself in order to proceed with your work. What would you like to drink? How about a small piece of cake to go with it?"
+        ],
+        "buildover": [
+            "Commander, we've got a new arrival!"
+        ],
+        "goattack": [
+            "Let's go and crush those people who are ruining the mood."
+        ],
+        "meet": [
+            "You don't even deserve to be the margarine spread on my bread."
+        ],
+        "attack": [
+            "Drive over their faces!"
+        ],
+        "defense": [
+            "It'll be bad if they damage my dress."
+        ],
+        "break": [
+            "You broke my bike, I won't let that slide!"
+        ],
+        "win": [
+            "Commander, everyone, that was amazing!"
+        ],
+        "retreat": [
+            "Dammit, this disgusting lot... Next time I'll make sure I smash you all to bits!"
+        ],
+        "newyear": [
+            "It would be a waste not to go out for a ride in weather like this. Don't worry, a true bicycle gangster can run wild even in a fancy dress!"
+        ],
+        "valentine": [
+            "Do you have any particular preference for the thickness of your chocolate? I can only give you a fitting present if I understand you completely."
+        ],
+        "tanabata": [
+            "What kind of wish should I write down... They're all lovely ones. I might as well wish that the god who makes these wishes come true will be happy too."
+        ],
+        "allhallows": [
+            "You're saying I look a little pale? I'm sorry, I'm not used to these occasions...that's because I can't tell who's friend or foe. Why don't I change to tranquilizer rounds and put down any suspicious people I see?"
+        ],
+        "christmas": [
+            "Merry Christmas, Commander! It's cold today, but the party at night is going to be warm, right? Make sure you come, okay?"
+        ],
+        "skill1": [
+            "I'll crush you to dust!"
+        ],
+        "skill2": [
+            "You're dead!"
+        ],
+        "skill3": [
+            "This shot is key!"
+        ],
+        "operationbegin": [
+            "I'll be back soon, don't look down on a bicycle's performance."
+        ],
+        "operationover": [
+            "I'm back, turns out transporting goods by bike is kind of tiring..."
+        ],
+        "fix": [
+            "Please fix my dress along with me."
+        ],
+        "combine": [
+            "Oh my, are you all going to ride pillion? "
+        ],
+        "blackaction": [
+            "Leave it all to me. I won't disappoint you."
+        ],
+        "soulcontract": [
+            "What's this all about, Commander? <>I see, but I'm not prepared for this. Has our relationship got to such a point? <>Alright, if you're so certain, then I trust your judgment..."
+        ],
+        "titlecall": [
+            "Girls' Frontline"
+        ],
+        "tip": [
+            "This is an important reminder, so please take a look."
+        ],
+        "loading": [
+            "A moment please."
+        ],
+        "dialoguewedding": [
+            "If I can have a cup of tea with my dearest beloved in the secret hideout that I've recently discovered, all my exhaustion from today will be swept away... What say you?"
+        ],
+        "introduce": [
+            "This is FN Browning, I salute you. A pleasant breeze blows today, Commander. Why don't we head outside for a stroll before we start working?"
+        ]
+    },
+    "SAF": {
+        "gain": [
+            "Hola, Commander. I'm SAF, your new subordinate. What a lovely scent... Please give me a hug..."
+        ],
+        "hello": [
+            "Yay, it's the Commander! Give me today's ration of hugs!"
+        ],
+        "formation": [
+            "Relax and leave it to me! If you're worried, then let me hug you..."
+        ],
+        "feed": [
+            "I can feel the weight of the newly-added gear, I hope it doesn't affect my weight too much..."
+        ],
+        "dialogue1": [
+            "To me, the Commander's daily hug is as essential as each of my four meals every day!"
+        ],
+        "dialogue2": [
+            "Is that you, Commander? Heheh, my eyes are closed, but I can tell it's you from just the scent."
+        ],
+        "dialogue3": [
+            "Hmm... Something feels wrong with the joint on my left leg. I guess I should go get it checked out. Huh? Commander... I'm just doing my routine maintenance. You don't have to yell!"
+        ],
+        "buildover": [
+            "We've got a new friend! Let me see if it's a fresh face or a familiar one♪"
+        ],
+        "goattack": [
+            "I hope the enemies don't smell too bad..."
+        ],
+        "meet": [
+            "Ugh, it stinks! I'm having trouble breathing..."
+        ],
+        "attack": [
+            "You stinky lot should just disappear!"
+        ],
+        "defense": [
+            "Keep that disgusting smell outside!"
+        ],
+        "break": [
+            "The deodorant's all used up..."
+        ],
+        "win": [
+            "Please give me a hug as a reward!"
+        ],
+        "retreat": [
+            "Run for it! That smelly bunch is coming at us!"
+        ],
+        "newyear": [
+            "Commander, I made these scented sachets myself. I learned how to do it from the Internet so I don't know if it's right or wrong...but it smells really good!"
+        ],
+        "valentine": [
+            "The scent of chocolate fills the air! And it's really strong inside your office, Commander..."
+        ],
+        "tanabata": [
+            "They say that on Tanabata each year, Orihime and Hikoboshi meet on the Magpie Bridge, and below it flows the Milky Way... Say, what do you think the Milky Way smells like?"
+        ],
+        "allhallows": [
+            "Trick or treat! I knew it was you, I can recognize you even if you change your outfit. Of course, that's because... You smell of candy today..."
+        ],
+        "christmas": [
+            "Merry Christmas! Give me upsies for my present! Lift me high enough to touch the top of the Christmas tree!"
+        ],
+        "skill1": [
+            "I can already smell your blood!"
+        ],
+        "skill2": [
+            "Savor the taste of fear..."
+        ],
+        "skill3": [
+            "None of you will escape!"
+        ],
+        "operationbegin": [
+            "(Sob) I won't be able to smell you for several days, Commander..."
+        ],
+        "operationover": [
+            "I'm back! Please hug me right away!"
+        ],
+        "fix": [
+            "Don't bother! I'll open it up myself..."
+        ],
+        "combine": [
+            "Now there's yet another familiar scent..."
+        ],
+        "blackaction": [
+            "I hope my teammates don't faint when they see me doing my regular maintenance..."
+        ],
+        "soulcontract": [
+            "Since the first time we met, I've been drawn to your scent... <>It may not be the sweetest scent I have ever smelled, but it's certainly the one that makes me feel the warmest and safest. <>It is an honor that I can have it by my side forever..."
+        ],
+        "titlecall": [
+            "Girls' Frontline"
+        ],
+        "phrase": [
+            "What a lovely smell!"
+        ],
+        "dialoguewedding": [
+            "Huh? Only a hug today? You lifted me right up yesterday..."
+        ],
+        "introduce": [
+            "Hola, Commander. I'm SAF, your new subordinate. What a lovely scent... Please give me a hug..."
+        ]
+    },
+    "Lusa": {
+        "gain": [
+            "Commander! You look pretty fit, wanna play soccer with me? Oh, I forgot to introduce myself. Pleased to meet you, I'm Lusa! Lusa the soccer player!"
+        ],
+        "dialogue1": [
+            "Coach! Have you heard of the \"Black Panther of Soccer\"? Uh...no, it's not me. It's a really famous soccer player and my idol! If only I were as good at soccer as he was."
+        ],
+        "dialogue2": [
+            "Why do I like soccer? Because the ball is right there! ...I'm not a cat! Jeez, you don't understand the beauty of the soccer pitch at all, Commander!"
+        ],
+        "dialogue3": [
+            "I suddenly have an absolutely terrific idea... Say, Commander, why don't you be the coach of Griffin's soccer team?! Huh? D-Don't go! Listen to me—"
+        ],
+        "soulcontract": [
+            "...A-Are you serious? I thought you summoned me for some kind of secret training, but it's actually for this? <>N-Not that I actually mind... It's just...don't people usually do this after they win a championship? <>Don't think so much? You're right! Thanks, Coach! Keep playing soccer with me, okay?!"
+        ],
+        "dialoguewedding": [
+            "(Sobs) I'll definitely win next time. Just you wait, Coach, I'll surely return with the Mules Rimet Trophy!"
+        ],
+        "introduce": [
+            "Commander! You look pretty fit, wanna play soccer with me? Oh, I forgot to introduce myself. Pleased to meet you, I'm Lusa! Lusa the soccer player!"
+        ]
+    },
+    "BrowningHP_0": {
+        "gain": [
+            "This is FN Browning, I salute you. A pleasant breeze blows today, Commander. Why don't we head outside for a stroll before we start working?"
+        ],
+        "hello": [
+            "Commander! Run faster, I'm already at the finish line!"
+        ],
+        "formation": [
+            "Hah, everyone's all lined up."
+        ],
+        "feed": [
+            "Taller, faster, prettier~"
+        ],
+        "dialogue1": [
+            "Let's sneak out for another ride today, Commander! I've got everything ready - both my dress and the bikes!"
+        ],
+        "dialogue2": [
+            "Tricycles are more stable, but when I grow up, I'm definitely getting a bicycle. Cycling on two wheels IS the way!"
+        ],
+        "dialogue3": [
+            "Snacks? Tea? Those things can wait till we come back! Hurry, hurry, let's fly!"
+        ],
+        "buildover": [
+            "Newbie, go out for a ride with me!"
+        ],
+        "goattack": [
+            "Let's go! Onward to the dawn!"
+        ],
+        "meet": [
+            "Beepbeep — I'm riding, anyone blocking my path will be knocked away!"
+        ],
+        "attack": [
+            "Go—"
+        ],
+        "defense": [
+            "Ehhhhh, it's a red light, better stop."
+        ],
+        "break": [
+            "I, I need to bear with this (sobs)"
+        ],
+        "win": [
+            "We can't stop here, we need to keep heading forward!"
+        ],
+        "retreat": [
+            "If we can't keep going, how about next time? Okay?"
+        ],
+        "skill1": [
+            "Guns are so cool!"
+        ],
+        "skill2": [
+            "Chaaaaarge—"
+        ],
+        "skill3": [
+            "Everyone, flatten them!"
+        ],
+        "operationbegin": [
+            "I'm already prepared for this, can we head out?"
+        ],
+        "operationover": [
+            "I'm back, I had lots of fun!"
+        ],
+        "fix": [
+            "Please fix my dress along with me."
+        ],
+        "combine": [
+            "Oh my, are you all going to ride pillion? "
+        ],
+        "blackaction": [
+            "Leave it all to me. I won't disappoint you."
+        ],
+        "soulcontract": [
+            "Ahaha, I know what this is - it's proof of our kinship as the rampaging duo, right? <>C'mon, don't be shy. Now that we've exchanged our tokens, don't mince your steps and just get on the bike!"
+        ],
+        "titlecall": [
+            "Girls' Frontline"
+        ],
+        "dialoguewedding": [
+            "Hold on, before we go for a ride today, I have a surprise to tell you! I've started learning how to brew tea, and I've even made some dessert! Would you like to try some, Commander?"
+        ],
+        "introduce": [
+            "This is FN Browning, I salute you. A pleasant breeze blows today, Commander. Why don't we head outside for a stroll before we start working?"
+        ],
+        "loading": [
+            "A moment please."
         ]
     }
 }
